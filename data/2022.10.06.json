@@ -1,0 +1,5692 @@
+{
+ "name": "LAR - UFRN 🐸🐍🦎🦗🧬",
+ "type": "private_supergroup",
+ "id": 1634140405,
+ "messages": [
+  {
+   "id": -999815208,
+   "type": "service",
+   "date": "2022-09-21T08:55:03",
+   "date_unixtime": "1663761303",
+   "actor": "Ricardo da Silveira Filho",
+   "actor_id": "user236056101",
+   "action": "create_group",
+   "title": "LAR - UFRN 🐸🐍🦎🦗🧬",
+   "members": [
+    "Ricardo da Silveira Filho",
+    "Bryan",
+    "Matheus Lucas"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999815207,
+   "type": "service",
+   "date": "2022-09-21T08:55:04",
+   "date_unixtime": "1663761304",
+   "actor": "Ricardo da Silveira Filho",
+   "actor_id": "user236056101",
+   "action": "edit_group_photo",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 640,
+   "height": 640,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999815206,
+   "type": "service",
+   "date": "2022-09-21T08:56:48",
+   "date_unixtime": "1663761408",
+   "actor": "Ricardo da Silveira Filho",
+   "actor_id": "user236056101",
+   "action": "migrate_to_supergroup",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 1,
+   "type": "service",
+   "date": "2022-09-21T08:56:48",
+   "date_unixtime": "1663761408",
+   "actor": "LAR - UFRN 🐸🐍🦎🦗🧬",
+   "actor_id": "channel1634140405",
+   "action": "migrate_from_group",
+   "title": "LAR - UFRN 🐸🐍🦎🦗🧬",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 2,
+   "type": "message",
+   "date": "2022-09-21T08:57:09",
+   "date_unixtime": "1663761429",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Olá!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Olá!"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "type": "message",
+   "date": "2022-09-21T09:10:59",
+   "date_unixtime": "1663762259",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Bom dia!!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Bom dia!!"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "type": "message",
+   "date": "2022-09-21T09:12:41",
+   "date_unixtime": "1663762361",
+   "from": "Bryan",
+   "from_id": "user1282040094",
+   "text": "Bom dia!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Bom dia!"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "type": "message",
+   "date": "2022-09-21T09:14:53",
+   "date_unixtime": "1663762493",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Em breve o povo começa a entrar",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Em breve o povo começa a entrar"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "type": "message",
+   "date": "2022-09-21T09:14:59",
+   "date_unixtime": "1663762499",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": ";)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": ";)"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "type": "message",
+   "date": "2022-09-21T09:44:27",
+   "date_unixtime": "1663764267",
+   "from": "Bryan",
+   "from_id": "user1282040094",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "application/pdf",
+   "text": "Lion_et_al-2016-Biotropica.pdf",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lion_et_al-2016-Biotropica.pdf"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "type": "message",
+   "date": "2022-09-21T09:44:45",
+   "date_unixtime": "1663764285",
+   "edited": "2022-09-25T14:13:27",
+   "edited_unixtime": "1664126007",
+   "from": "Bryan",
+   "from_id": "user1282040094",
+   "text": "Deixe eu logo mandar  aqui para ficar mais fácil de achar",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Deixe eu logo mandar  aqui para ficar mais fácil de achar"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "type": "message",
+   "date": "2022-09-21T09:45:09",
+   "date_unixtime": "1663764309",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Boa!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Boa!"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "type": "service",
+   "date": "2022-09-21T11:14:02",
+   "date_unixtime": "1663769642",
+   "actor": "Ricardo da Silveira Filho",
+   "actor_id": "user236056101",
+   "action": "pin_message",
+   "message_id": 7,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 11,
+   "type": "message",
+   "date": "2022-09-21T11:20:17",
+   "date_unixtime": "1663770017",
+   "edited": "2022-09-21T11:24:06",
+   "edited_unixtime": "1663770246",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://t.me/+f03DNZPTmmk4NzEx"
+    },
+    "\n\nMandem pra quem vcs conhecem lá do lab ;)"
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://t.me/+f03DNZPTmmk4NzEx"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nMandem pra quem vcs conhecem lá do lab ;)"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "type": "service",
+   "date": "2022-09-21T11:53:09",
+   "date_unixtime": "1663771989",
+   "actor": "Aldenir Ferreira",
+   "actor_id": "user5647734688",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 13,
+   "type": "message",
+   "date": "2022-09-21T11:56:25",
+   "date_unixtime": "1663772185",
+   "from": "Aldenir Ferreira",
+   "from_id": "user5647734688",
+   "text": "Não tinha conta nesse App não sei usar, só sei que já me encouraram e estão mandando msg",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Não tinha conta nesse App não sei usar, só sei que já me encouraram e estão mandando msg"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "type": "message",
+   "date": "2022-09-21T11:57:03",
+   "date_unixtime": "1663772223",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "ele avisa pra as pessoas quando um contato seu aparece por aqui",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ele avisa pra as pessoas quando um contato seu aparece por aqui"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "type": "message",
+   "date": "2022-09-21T11:57:14",
+   "date_unixtime": "1663772234",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 291,
+   "height": 124,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 16,
+   "type": "message",
+   "date": "2022-09-21T11:57:20",
+   "date_unixtime": "1663772240",
+   "from": "Aldenir Ferreira",
+   "from_id": "user5647734688",
+   "text": "Ai ai",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ai ai"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "type": "message",
+   "date": "2022-09-21T11:57:26",
+   "date_unixtime": "1663772246",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Fofoqueiro",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Fofoqueiro"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "type": "message",
+   "date": "2022-09-21T11:57:31",
+   "date_unixtime": "1663772251",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "mar minino",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "mar minino"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "type": "message",
+   "date": "2022-09-21T11:58:32",
+   "date_unixtime": "1663772312",
+   "from": "Aldenir Ferreira",
+   "from_id": "user5647734688",
+   "text": "Vou logo botar no meu status: não respondo msg",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Vou logo botar no meu status: não respondo msg"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "type": "message",
+   "date": "2022-09-21T11:58:37",
+   "date_unixtime": "1663772317",
+   "from": "Aldenir Ferreira",
+   "from_id": "user5647734688",
+   "text": "Tem status ?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Tem status ?"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "type": "message",
+   "date": "2022-09-21T11:59:42",
+   "date_unixtime": "1663772382",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "tem",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "tem"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "type": "message",
+   "date": "2022-09-21T11:59:52",
+   "date_unixtime": "1663772392",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "tem como bloquear tudo e deixar só o grupo aqui",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "tem como bloquear tudo e deixar só o grupo aqui"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "type": "message",
+   "date": "2022-09-21T12:00:02",
+   "date_unixtime": "1663772402",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "só ir nas tuas configurações de privacidade",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "só ir nas tuas configurações de privacidade"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "type": "message",
+   "date": "2022-09-21T12:00:15",
+   "date_unixtime": "1663772415",
+   "from": "Aldenir Ferreira",
+   "from_id": "user5647734688",
+   "text": "Maravilha",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Maravilha"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "type": "message",
+   "date": "2022-09-21T13:24:13",
+   "date_unixtime": "1663777453",
+   "from": "Aldenir Ferreira",
+   "from_id": "user5647734688",
+   "text": "Até mamãe tem telegram e eu não sabia",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Até mamãe tem telegram e eu não sabia"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "type": "message",
+   "date": "2022-09-21T13:24:51",
+   "date_unixtime": "1663777491",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Olha aí. Mamãe a frente do seu tempo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Olha aí. Mamãe a frente do seu tempo"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "type": "service",
+   "date": "2022-09-21T17:15:14",
+   "date_unixtime": "1663791314",
+   "actor": "Daniel LAR",
+   "actor_id": "user5681790424",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 28,
+   "type": "service",
+   "date": "2022-09-21T18:12:16",
+   "date_unixtime": "1663794736",
+   "actor": "Silvilene Matias",
+   "actor_id": "user1674362809",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 29,
+   "type": "message",
+   "date": "2022-09-21T18:14:55",
+   "date_unixtime": "1663794895",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "🎉",
+   "width": 512,
+   "height": 358,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 30,
+   "type": "service",
+   "date": "2022-09-22T09:56:42",
+   "date_unixtime": "1663851402",
+   "actor": "Maria Beatriz",
+   "actor_id": "user5410302974",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 31,
+   "type": "message",
+   "date": "2022-09-22T09:58:21",
+   "date_unixtime": "1663851501",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "Hi folks🫰",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hi folks🫰"
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "type": "message",
+   "date": "2022-09-22T10:14:05",
+   "date_unixtime": "1663852445",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "✋",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 33,
+   "type": "message",
+   "date": "2022-09-23T12:26:45",
+   "date_unixtime": "1663946805",
+   "from": "Bryan",
+   "from_id": "user1282040094",
+   "text": "Vai ter alguém pelo lab hoje à tarde?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Vai ter alguém pelo lab hoje à tarde?"
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "type": "message",
+   "date": "2022-09-23T12:27:33",
+   "date_unixtime": "1663946853",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Fala Bryan, eu não vou",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Fala Bryan, eu não vou"
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "type": "message",
+   "date": "2022-09-23T12:27:58",
+   "date_unixtime": "1663946878",
+   "from": "Aldenir Ferreira",
+   "from_id": "user5647734688",
+   "text": "Eu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Eu"
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "type": "message",
+   "date": "2022-09-23T12:44:01",
+   "date_unixtime": "1663947841",
+   "from": "Bryan",
+   "from_id": "user1282040094",
+   "text": "Beleza, chego já por aí",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Beleza, chego já por aí"
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "type": "message",
+   "date": "2022-09-23T15:59:02",
+   "date_unixtime": "1663959542",
+   "from": "Aldenir Ferreira",
+   "from_id": "user5647734688",
+   "text": "Daniel",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Daniel"
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "type": "message",
+   "date": "2022-09-23T15:59:07",
+   "date_unixtime": "1663959547",
+   "from": "Aldenir Ferreira",
+   "from_id": "user5647734688",
+   "text": "Oq é isso ?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Oq é isso ?"
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "type": "message",
+   "date": "2022-09-23T15:59:19",
+   "date_unixtime": "1663959559",
+   "from": "Aldenir Ferreira",
+   "from_id": "user5647734688",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 40,
+   "type": "message",
+   "date": "2022-09-23T15:59:35",
+   "date_unixtime": "1663959575",
+   "from": "Aldenir Ferreira",
+   "from_id": "user5647734688",
+   "text": "Entregaram no laboratório disseram que vc mandou",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Entregaram no laboratório disseram que vc mandou"
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "type": "message",
+   "date": "2022-09-23T16:02:11",
+   "date_unixtime": "1663959731",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "text": "Dentro tem um papelzinho com algumas informações",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Dentro tem um papelzinho com algumas informações"
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "type": "message",
+   "date": "2022-09-23T16:02:16",
+   "date_unixtime": "1663959736",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "text": "Desculpa a demora",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Desculpa a demora"
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "type": "message",
+   "date": "2022-09-23T16:02:59",
+   "date_unixtime": "1663959779",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "reply_to_message_id": 41,
+   "text": "uot?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "uot?"
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "type": "message",
+   "date": "2022-09-23T16:03:15",
+   "date_unixtime": "1663959795",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "text": "É o tecido da hepicrates",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "É o tecido da hepicrates"
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "type": "message",
+   "date": "2022-09-23T16:03:29",
+   "date_unixtime": "1663959809",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "ah tá 😁",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ah tá 😁"
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "type": "message",
+   "date": "2022-09-23T16:03:45",
+   "date_unixtime": "1663959825",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "text": "Achou o papel ? Kkkk",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Achou o papel ? Kkkk"
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "type": "message",
+   "date": "2022-09-23T16:03:59",
+   "date_unixtime": "1663959839",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "text": "Gente essa ruma de grupo da me deixando doido kkkk",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Gente essa ruma de grupo da me deixando doido kkkk"
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "type": "message",
+   "date": "2022-09-23T16:04:36",
+   "date_unixtime": "1663959876",
+   "from": "Aldenir Ferreira",
+   "from_id": "user5647734688",
+   "text": "O papel tá no desodorante também ?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "O papel tá no desodorante também ?"
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "type": "message",
+   "date": "2022-09-23T16:06:35",
+   "date_unixtime": "1663959995",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "text": "Ta",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ta"
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "type": "message",
+   "date": "2022-09-23T16:08:28",
+   "date_unixtime": "1663960108",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 51,
+   "type": "message",
+   "date": "2022-09-23T16:08:28",
+   "date_unixtime": "1663960108",
+   "from": "Aldenir Ferreira",
+   "from_id": "user5647734688",
+   "text": "Beleza",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Beleza"
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "type": "message",
+   "date": "2022-09-23T16:08:32",
+   "date_unixtime": "1663960112",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "text": "São Gonçalo do Amarante",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "São Gonçalo do Amarante"
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "type": "message",
+   "date": "2022-09-23T16:08:38",
+   "date_unixtime": "1663960118",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "text": "Comunidade de Califórnia",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Comunidade de Califórnia"
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "type": "message",
+   "date": "2022-09-23T16:08:48",
+   "date_unixtime": "1663960128",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "que merda hein",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "que merda hein"
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "type": "message",
+   "date": "2022-09-23T16:09:53",
+   "date_unixtime": "1663960193",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "text": "O que ? Kkk",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "O que ? Kkk"
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "type": "message",
+   "date": "2022-09-23T16:10:05",
+   "date_unixtime": "1663960205",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "morrer um bicho bonito desse",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "morrer um bicho bonito desse"
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "type": "message",
+   "date": "2022-09-23T16:10:11",
+   "date_unixtime": "1663960211",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "text": "Sim kkkk",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sim kkkk"
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "type": "message",
+   "date": "2022-09-23T16:10:51",
+   "date_unixtime": "1663960251",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "text": "Bonita era a caninana, tá lá no molécular",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Bonita era a caninana, tá lá no molécular"
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "type": "message",
+   "date": "2022-09-23T16:11:05",
+   "date_unixtime": "1663960265",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "o adrian falou dela",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "o adrian falou dela"
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "type": "message",
+   "date": "2022-09-23T16:11:59",
+   "date_unixtime": "1663960319",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "text": "Ainda tava viva",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ainda tava viva"
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "type": "message",
+   "date": "2022-09-23T16:12:12",
+   "date_unixtime": "1663960332",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "text": "Fiquei morrendo de pena",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Fiquei morrendo de pena"
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "type": "message",
+   "date": "2022-09-23T16:12:29",
+   "date_unixtime": "1663960349",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😔",
+   "width": 496,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 63,
+   "type": "message",
+   "date": "2022-09-25T20:38:41",
+   "date_unixtime": "1664149121",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Terá reunião amanhã??",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Terá reunião amanhã??"
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "type": "message",
+   "date": "2022-09-26T07:59:32",
+   "date_unixtime": "1664189972",
+   "from": "Bryan",
+   "from_id": "user1282040094",
+   "text": "Também queria saber se vai ter reunião hoje",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Também queria saber se vai ter reunião hoje"
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "type": "message",
+   "date": "2022-09-26T08:02:15",
+   "date_unixtime": "1664190135",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "N sei gente, vou falar com o adriano",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "N sei gente, vou falar com o adriano"
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "type": "message",
+   "date": "2022-09-26T08:27:04",
+   "date_unixtime": "1664191624",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Viram o email agora?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Viram o email agora?"
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "type": "message",
+   "date": "2022-09-26T08:29:40",
+   "date_unixtime": "1664191780",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Sexta 10 às 12",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sexta 10 às 12"
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "type": "message",
+   "date": "2022-09-26T08:30:32",
+   "date_unixtime": "1664191832",
+   "from": "Bryan",
+   "from_id": "user1282040094",
+   "text": "Acabou de chegar aqui",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Acabou de chegar aqui"
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "type": "message",
+   "date": "2022-09-26T08:30:36",
+   "date_unixtime": "1664191836",
+   "from": "Bryan",
+   "from_id": "user1282040094",
+   "text": "Valeu, Ricardo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Valeu, Ricardo"
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "type": "message",
+   "date": "2022-09-26T08:31:40",
+   "date_unixtime": "1664191900",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Show de bola",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Show de bola"
+    }
+   ]
+  },
+  {
+   "id": 71,
+   "type": "message",
+   "date": "2022-09-26T08:32:36",
+   "date_unixtime": "1664191956",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "reply_to_message_id": 7,
+   "text": "Reuniões do laboratório, sextas-feiras, 10 às 12h.\nArtigo anexado a esta mensagem.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Reuniões do laboratório, sextas-feiras, 10 às 12h.\nArtigo anexado a esta mensagem."
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "type": "service",
+   "date": "2022-09-26T16:24:48",
+   "date_unixtime": "1664220288",
+   "actor": "Adrian Garda",
+   "actor_id": "user5672618847",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 73,
+   "type": "message",
+   "date": "2022-09-26T16:25:00",
+   "date_unixtime": "1664220300",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Opa",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Opa"
+    }
+   ]
+  },
+  {
+   "id": 74,
+   "type": "message",
+   "date": "2022-09-26T16:26:20",
+   "date_unixtime": "1664220380",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Boas vindas, chefe 😁",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Boas vindas, chefe 😁"
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "type": "message",
+   "date": "2022-09-26T16:26:21",
+   "date_unixtime": "1664220381",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Pessoal, amanhã o dia todo e pelas manhãs na quarta e quinta vamos fazer um mutirão para organizar o laboratório. Tem um bocado de coisa pra fazer. Quem puder dar uma passada para ajudar, agradeço!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Pessoal, amanhã o dia todo e pelas manhãs na quarta e quinta vamos fazer um mutirão para organizar o laboratório. Tem um bocado de coisa pra fazer. Quem puder dar uma passada para ajudar, agradeço!"
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "type": "service",
+   "date": "2022-09-26T16:26:42",
+   "date_unixtime": "1664220402",
+   "actor": "Ricardo da Silveira Filho",
+   "actor_id": "user236056101",
+   "action": "pin_message",
+   "message_id": 71,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 77,
+   "type": "message",
+   "date": "2022-09-26T16:26:46",
+   "date_unixtime": "1664220406",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Falta os alunos de IC novos aqui",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Falta os alunos de IC novos aqui"
+    }
+   ]
+  },
+  {
+   "id": 78,
+   "type": "message",
+   "date": "2022-09-26T16:27:00",
+   "date_unixtime": "1664220420",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Sim, tem que mandar o link de convite pra eles",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sim, tem que mandar o link de convite pra eles"
+    }
+   ]
+  },
+  {
+   "id": 79,
+   "type": "message",
+   "date": "2022-09-26T16:27:19",
+   "date_unixtime": "1664220439",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://t.me/+f03DNZPTmmk4NzEx"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://t.me/+f03DNZPTmmk4NzEx"
+    }
+   ]
+  },
+  {
+   "id": 80,
+   "type": "message",
+   "date": "2022-09-26T16:28:13",
+   "date_unixtime": "1664220493",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok"
+    }
+   ]
+  },
+  {
+   "id": 81,
+   "type": "message",
+   "date": "2022-09-26T16:28:21",
+   "date_unixtime": "1664220501",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Falta o Daniel tb",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Falta o Daniel tb"
+    }
+   ]
+  },
+  {
+   "id": 82,
+   "type": "message",
+   "date": "2022-09-26T16:28:31",
+   "date_unixtime": "1664220511",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Há não",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Há não"
+    }
+   ]
+  },
+  {
+   "id": 83,
+   "type": "message",
+   "date": "2022-09-26T16:28:34",
+   "date_unixtime": "1664220514",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Ele tá",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ele tá"
+    }
+   ]
+  },
+  {
+   "id": 84,
+   "type": "message",
+   "date": "2022-09-26T16:28:38",
+   "date_unixtime": "1664220518",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": [
+    {
+     "type": "mention_name",
+     "text": "Daniel",
+     "user_id": 5681790424
+    },
+    " já tá aqui"
+   ],
+   "text_entities": [
+    {
+     "type": "mention_name",
+     "text": "Daniel",
+     "user_id": 5681790424
+    },
+    {
+     "type": "plain",
+     "text": " já tá aqui"
+    }
+   ]
+  },
+  {
+   "id": 85,
+   "type": "message",
+   "date": "2022-09-26T16:32:05",
+   "date_unixtime": "1664220725",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "text": "Opa kkk",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Opa kkk"
+    }
+   ]
+  },
+  {
+   "id": 86,
+   "type": "message",
+   "date": "2022-09-27T06:32:36",
+   "date_unixtime": "1664271156",
+   "from": "LAR - UFRN 🐸🐍🦎🦗🧬",
+   "from_id": "channel1634140405",
+   "text": "😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😂"
+    }
+   ]
+  },
+  {
+   "id": 87,
+   "type": "message",
+   "date": "2022-09-27T06:33:15",
+   "date_unixtime": "1664271195",
+   "from": "LAR - UFRN 🐸🐍🦎🦗🧬",
+   "from_id": "channel1634140405",
+   "text": "Bom dia galera! Quem puder passar na sala hj estamos em mutirão pra arrumar um bocado de coisa",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Bom dia galera! Quem puder passar na sala hj estamos em mutirão pra arrumar um bocado de coisa"
+    }
+   ]
+  },
+  {
+   "id": 88,
+   "type": "message",
+   "date": "2022-09-27T06:37:25",
+   "date_unixtime": "1664271445",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "Bom dia, certo!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Bom dia, certo!"
+    }
+   ]
+  },
+  {
+   "id": 89,
+   "type": "message",
+   "date": "2022-09-27T07:15:02",
+   "date_unixtime": "1664273702",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 90,
+   "type": "service",
+   "date": "2022-09-27T20:28:30",
+   "date_unixtime": "1664321310",
+   "actor": "Fabiany Herica Figueiredo",
+   "actor_id": "user5665649293",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 91,
+   "type": "message",
+   "date": "2022-09-28T06:49:35",
+   "date_unixtime": "1664358575",
+   "from": "LAR - UFRN 🐸🐍🦎🦗🧬",
+   "from_id": "channel1634140405",
+   "text": "Bem vinda Fabiany",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Bem vinda Fabiany"
+    }
+   ]
+  },
+  {
+   "id": 92,
+   "type": "message",
+   "date": "2022-09-28T08:30:33",
+   "date_unixtime": "1664364633",
+   "from": "Fabiany Herica Figueiredo",
+   "from_id": "user5665649293",
+   "text": "Obrigada",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Obrigada"
+    }
+   ]
+  },
+  {
+   "id": 93,
+   "type": "service",
+   "date": "2022-09-28T08:36:37",
+   "date_unixtime": "1664364997",
+   "actor": "Joedma Graciene",
+   "actor_id": "user5718812612",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 94,
+   "type": "service",
+   "date": "2022-09-28T09:43:05",
+   "date_unixtime": "1664368985",
+   "actor": "Winicius Costa",
+   "actor_id": "user5680581605",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 95,
+   "type": "message",
+   "date": "2022-09-28T10:53:40",
+   "date_unixtime": "1664373220",
+   "edited": "2022-09-28T15:06:15",
+   "edited_unixtime": "1664388375",
+   "from": "LAR - UFRN 🐸🐍🦎🦗🧬",
+   "from_id": "channel1634140405",
+   "text": "Bienvenidos Joedma y Winicius",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Bienvenidos Joedma y Winicius"
+    }
+   ]
+  },
+  {
+   "id": 96,
+   "type": "service",
+   "date": "2022-09-28T11:24:54",
+   "date_unixtime": "1664375094",
+   "actor": "Vanessa",
+   "actor_id": "user5445760822",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 97,
+   "type": "message",
+   "date": "2022-09-28T12:26:59",
+   "date_unixtime": "1664378819",
+   "from": "Winicius Costa",
+   "from_id": "user5680581605",
+   "text": "Gracias",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Gracias"
+    }
+   ]
+  },
+  {
+   "id": 98,
+   "type": "message",
+   "date": "2022-09-28T15:05:11",
+   "date_unixtime": "1664388311",
+   "edited": "2022-09-29T07:24:55",
+   "edited_unixtime": "1664447095",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": "Bryan , assim que se empacota 😁",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Bryan , assim que se empacota 😁"
+    }
+   ]
+  },
+  {
+   "id": 99,
+   "type": "message",
+   "date": "2022-09-28T15:22:13",
+   "date_unixtime": "1664389333",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Kkkkkkkkkkk agora vai",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Kkkkkkkkkkk agora vai"
+    }
+   ]
+  },
+  {
+   "id": 100,
+   "type": "message",
+   "date": "2022-09-28T15:33:37",
+   "date_unixtime": "1664390017",
+   "from": "Bryan",
+   "from_id": "user1282040094",
+   "reply_to_message_id": 98,
+   "text": "Ahhh ficou foi quase idêntico ao que eu fiz kkkkkk",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ahhh ficou foi quase idêntico ao que eu fiz kkkkkk"
+    }
+   ]
+  },
+  {
+   "id": 101,
+   "type": "message",
+   "date": "2022-09-28T16:12:13",
+   "date_unixtime": "1664392333",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Kkkkkkk",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Kkkkkkk"
+    }
+   ]
+  },
+  {
+   "id": 102,
+   "type": "message",
+   "date": "2022-09-29T16:49:36",
+   "date_unixtime": "1664480976",
+   "edited": "2022-09-29T16:50:26",
+   "edited_unixtime": "1664481026",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": [
+    "Gente, pra quem tiver interesse em aprender R, tem um grupo aqui do telegram que o pessoal é bastante ativo, tem quase 3k pessoas. A galera é bem prestativa, o que precisarem (que não encontrarem no gugle), basta perguntar por lá ;)\n\nAqui o link: ",
+    {
+     "type": "link",
+     "text": "https://t.me/rbrasiloficial"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Gente, pra quem tiver interesse em aprender R, tem um grupo aqui do telegram que o pessoal é bastante ativo, tem quase 3k pessoas. A galera é bem prestativa, o que precisarem (que não encontrarem no gugle), basta perguntar por lá ;)\n\nAqui o link: "
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/rbrasiloficial"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 103,
+   "type": "message",
+   "date": "2022-09-29T19:26:10",
+   "date_unixtime": "1664490370",
+   "from": "Bryan",
+   "from_id": "user1282040094",
+   "reply_to_message_id": 102,
+   "text": "Massa, Ricardo! Obrigado por compartilhar",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Massa, Ricardo! Obrigado por compartilhar"
+    }
+   ]
+  },
+  {
+   "id": 104,
+   "type": "message",
+   "date": "2022-09-30T09:08:32",
+   "date_unixtime": "1664539712",
+   "from": "LAR - UFRN 🐸🐍🦎🦗🧬",
+   "from_id": "channel1634140405",
+   "text": "Pessoal, a reunião hj vai ser na sala da pós graduação, que fica no Bloco H, 1 andar, ao lado dos banheiros",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Pessoal, a reunião hj vai ser na sala da pós graduação, que fica no Bloco H, 1 andar, ao lado dos banheiros"
+    }
+   ]
+  },
+  {
+   "id": 105,
+   "type": "message",
+   "date": "2022-09-30T09:10:22",
+   "date_unixtime": "1664539822",
+   "edited": "2022-09-30T09:23:46",
+   "edited_unixtime": "1664540626",
+   "from": "Vanessa",
+   "from_id": "user5445760822",
+   "text": "Vai conseguir transmitir, Adrian?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Vai conseguir transmitir, Adrian?"
+    }
+   ]
+  },
+  {
+   "id": 106,
+   "type": "message",
+   "date": "2022-09-30T09:11:21",
+   "date_unixtime": "1664539881",
+   "from": "Bryan",
+   "from_id": "user1282040094",
+   "text": "Bom dia!\nNão vou conseguir participar hoje, desculpa",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Bom dia!\nNão vou conseguir participar hoje, desculpa"
+    }
+   ]
+  },
+  {
+   "id": 107,
+   "type": "message",
+   "date": "2022-09-30T09:14:59",
+   "date_unixtime": "1664540099",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Ok!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok!"
+    }
+   ]
+  },
+  {
+   "id": 108,
+   "type": "message",
+   "date": "2022-09-30T09:20:28",
+   "date_unixtime": "1664540428",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Bom dia!! Também não poderei ir",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Bom dia!! Também não poderei ir"
+    }
+   ]
+  },
+  {
+   "id": 109,
+   "type": "message",
+   "date": "2022-09-30T10:00:02",
+   "date_unixtime": "1664542802",
+   "from": "Aldenir Ferreira",
+   "from_id": "user5647734688",
+   "text": "Eu vou",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Eu vou"
+    }
+   ]
+  },
+  {
+   "id": 110,
+   "type": "message",
+   "date": "2022-09-30T10:00:29",
+   "date_unixtime": "1664542829",
+   "from": "LAR - UFRN 🐸🐍🦎🦗🧬",
+   "from_id": "channel1634140405",
+   "text": "To indo para a sala",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "To indo para a sala"
+    }
+   ]
+  },
+  {
+   "id": 111,
+   "type": "message",
+   "date": "2022-09-30T10:01:35",
+   "date_unixtime": "1664542895",
+   "from": "LAR - UFRN 🐸🐍🦎🦗🧬",
+   "from_id": "channel1634140405",
+   "text": "Nicolas, Herica, vitória, winicius, Ricardo. Vcs vem?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Nicolas, Herica, vitória, winicius, Ricardo. Vcs vem?"
+    }
+   ]
+  },
+  {
+   "id": 112,
+   "type": "message",
+   "date": "2022-09-30T10:01:57",
+   "date_unixtime": "1664542917",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Vou, tô procurando vaga pra estacionar",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Vou, tô procurando vaga pra estacionar"
+    }
+   ]
+  },
+  {
+   "id": 113,
+   "type": "message",
+   "date": "2022-09-30T10:02:50",
+   "date_unixtime": "1664542970",
+   "from": "LAR - UFRN 🐸🐍🦎🦗🧬",
+   "from_id": "channel1634140405",
+   "text": "Na sala da pós graduação ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Na sala da pós graduação ok"
+    }
+   ]
+  },
+  {
+   "id": 114,
+   "type": "message",
+   "date": "2022-09-30T10:07:41",
+   "date_unixtime": "1664543261",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "reply_to_message_id": 113,
+   "text": "Vixi, onde fica?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Vixi, onde fica?"
+    }
+   ]
+  },
+  {
+   "id": 115,
+   "type": "message",
+   "date": "2022-09-30T10:10:28",
+   "date_unixtime": "1664543428",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Primeiro andar",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Primeiro andar"
+    }
+   ]
+  },
+  {
+   "id": 116,
+   "type": "message",
+   "date": "2022-09-30T10:10:47",
+   "date_unixtime": "1664543447",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Proximo aos banheiros do bloco H",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Proximo aos banheiros do bloco H"
+    }
+   ]
+  },
+  {
+   "id": 117,
+   "type": "message",
+   "date": "2022-09-30T10:11:17",
+   "date_unixtime": "1664543477",
+   "from": "Aldenir Ferreira",
+   "from_id": "user5647734688",
+   "text": "Encontra o Adrian no laboratório",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Encontra o Adrian no laboratório"
+    }
+   ]
+  },
+  {
+   "id": 118,
+   "type": "message",
+   "date": "2022-09-30T10:48:56",
+   "date_unixtime": "1664545736",
+   "from": "Vanessa",
+   "from_id": "user5445760822",
+   "text": "Começou? 👀",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Começou? 👀"
+    }
+   ]
+  },
+  {
+   "id": 119,
+   "type": "message",
+   "date": "2022-09-30T10:49:12",
+   "date_unixtime": "1664545752",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Sim",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sim"
+    }
+   ]
+  },
+  {
+   "id": 120,
+   "type": "message",
+   "date": "2022-09-30T11:17:22",
+   "date_unixtime": "1664547442",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Não tinha internet na sala Vanessa",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Não tinha internet na sala Vanessa"
+    }
+   ]
+  },
+  {
+   "id": 121,
+   "type": "message",
+   "date": "2022-09-30T13:19:38",
+   "date_unixtime": "1664554778",
+   "from": "Vanessa",
+   "from_id": "user5445760822",
+   "text": "Tudo bem Adrian",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Tudo bem Adrian"
+    }
+   ]
+  },
+  {
+   "id": 122,
+   "type": "message",
+   "date": "2022-09-30T13:20:13",
+   "date_unixtime": "1664554813",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Nas próximas vai ter",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Nas próximas vai ter"
+    }
+   ]
+  },
+  {
+   "id": 123,
+   "type": "message",
+   "date": "2022-09-30T13:20:28",
+   "date_unixtime": "1664554828",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Falamos sobre a ida pra seu campo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Falamos sobre a ida pra seu campo"
+    }
+   ]
+  },
+  {
+   "id": 124,
+   "type": "message",
+   "date": "2022-09-30T13:21:00",
+   "date_unixtime": "1664554860",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Fred falou que vai ver se vai ou não a Brasília, mas mesmo se for podemos ir e ficar lá",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Fred falou que vai ver se vai ou não a Brasília, mas mesmo se for podemos ir e ficar lá"
+    }
+   ]
+  },
+  {
+   "id": 125,
+   "type": "message",
+   "date": "2022-09-30T13:28:46",
+   "date_unixtime": "1664555326",
+   "from": "Vanessa",
+   "from_id": "user5445760822",
+   "text": "Ahh ótimo então 😊",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ahh ótimo então 😊"
+    }
+   ]
+  },
+  {
+   "id": 126,
+   "type": "message",
+   "date": "2022-10-03T10:55:04",
+   "date_unixtime": "1664805304",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Gente, amanhã vamos abrir os baldes. Nicolas, Ricardo Matheus e Adrian",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Gente, amanhã vamos abrir os baldes. Nicolas, Ricardo Matheus e Adrian"
+    }
+   ]
+  },
+  {
+   "id": 127,
+   "type": "message",
+   "date": "2022-10-03T10:56:13",
+   "date_unixtime": "1664805373",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Precisamos nos encontrar na uFRN as 7am, Ricardo. Matheus, te pegaremos na agaé. Nicolas, te pegamos no IF de Parnamirim?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Precisamos nos encontrar na uFRN as 7am, Ricardo. Matheus, te pegaremos na agaé. Nicolas, te pegamos no IF de Parnamirim?"
+    }
+   ]
+  },
+  {
+   "id": 128,
+   "type": "message",
+   "date": "2022-10-03T12:50:24",
+   "date_unixtime": "1664812224",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "👀",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "👀"
+    }
+   ]
+  },
+  {
+   "id": 129,
+   "type": "message",
+   "date": "2022-10-03T13:09:53",
+   "date_unixtime": "1664813393",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "reply_to_message_id": 127,
+   "text": "Ok!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok!"
+    }
+   ]
+  },
+  {
+   "id": 130,
+   "type": "message",
+   "date": "2022-10-03T13:10:09",
+   "date_unixtime": "1664813409",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Vai ter o carro da uf?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Vai ter o carro da uf?"
+    }
+   ]
+  },
+  {
+   "id": 131,
+   "type": "message",
+   "date": "2022-10-03T13:10:20",
+   "date_unixtime": "1664813420",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Vai",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Vai"
+    }
+   ]
+  },
+  {
+   "id": 132,
+   "type": "message",
+   "date": "2022-10-03T13:10:26",
+   "date_unixtime": "1664813426",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Com motorista",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Com motorista"
+    }
+   ]
+  },
+  {
+   "id": 133,
+   "type": "message",
+   "date": "2022-10-03T13:10:36",
+   "date_unixtime": "1664813436",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Ótimo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ótimo"
+    }
+   ]
+  },
+  {
+   "id": 134,
+   "type": "message",
+   "date": "2022-10-03T13:18:36",
+   "date_unixtime": "1664813916",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "reply_to_message_id": 127,
+   "text": "Posso ir para o CB se melhor for",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Posso ir para o CB se melhor for"
+    }
+   ]
+  },
+  {
+   "id": 135,
+   "type": "service",
+   "date": "2022-10-03T18:19:21",
+   "date_unixtime": "1664831961",
+   "actor": "Nicolas Vinicius",
+   "actor_id": "user5662188202",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 136,
+   "type": "message",
+   "date": "2022-10-03T20:10:37",
+   "date_unixtime": "1664838637",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "7 horas na agaé então? (Pode ser no cb tambm)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "7 horas na agaé então? (Pode ser no cb tambm)"
+    }
+   ]
+  },
+  {
+   "id": 137,
+   "type": "message",
+   "date": "2022-10-04T06:56:03",
+   "date_unixtime": "1664877363",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Opa",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Opa"
+    }
+   ]
+  },
+  {
+   "id": 138,
+   "type": "message",
+   "date": "2022-10-04T06:56:13",
+   "date_unixtime": "1664877373",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Vc vai estar na agaé?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Vc vai estar na agaé?"
+    }
+   ]
+  },
+  {
+   "id": 139,
+   "type": "message",
+   "date": "2022-10-04T06:56:19",
+   "date_unixtime": "1664877379",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Matheus",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Matheus"
+    }
+   ]
+  },
+  {
+   "id": 140,
+   "type": "message",
+   "date": "2022-10-04T06:57:02",
+   "date_unixtime": "1664877422",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Sim",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sim"
+    }
+   ]
+  },
+  {
+   "id": 141,
+   "type": "message",
+   "date": "2022-10-04T06:57:06",
+   "date_unixtime": "1664877426",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Estou chegando",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Estou chegando"
+    }
+   ]
+  },
+  {
+   "id": 142,
+   "type": "message",
+   "date": "2022-10-04T07:02:49",
+   "date_unixtime": "1664877769",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Aguardando o motorista que não deu sinal de vida ainda",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Aguardando o motorista que não deu sinal de vida ainda"
+    }
+   ]
+  },
+  {
+   "id": 143,
+   "type": "message",
+   "date": "2022-10-04T07:03:35",
+   "date_unixtime": "1664877815",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Tudo bem",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Tudo bem"
+    }
+   ]
+  },
+  {
+   "id": 144,
+   "type": "message",
+   "date": "2022-10-04T07:04:02",
+   "date_unixtime": "1664877842",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Prefere que eu vá pro cb?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Prefere que eu vá pro cb?"
+    }
+   ]
+  },
+  {
+   "id": 145,
+   "type": "message",
+   "date": "2022-10-04T07:07:17",
+   "date_unixtime": "1664878037",
+   "from": "Nicolas Vinicius",
+   "from_id": "user5662188202",
+   "text": "quando saírem da UF, vcs avisam que eu saio daqui tmb",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "quando saírem da UF, vcs avisam que eu saio daqui tmb"
+    }
+   ]
+  },
+  {
+   "id": 146,
+   "type": "message",
+   "date": "2022-10-04T07:11:12",
+   "date_unixtime": "1664878272",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Estamos na agaé Matheus",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Estamos na agaé Matheus"
+    }
+   ]
+  },
+  {
+   "id": 147,
+   "type": "message",
+   "date": "2022-10-04T07:11:16",
+   "date_unixtime": "1664878276",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Kd vc?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Kd vc?"
+    }
+   ]
+  },
+  {
+   "id": 148,
+   "type": "message",
+   "date": "2022-10-04T07:13:33",
+   "date_unixtime": "1664878413",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "reply_to_message_id": 145,
+   "text": "Saímos",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Saímos"
+    }
+   ]
+  },
+  {
+   "id": 149,
+   "type": "message",
+   "date": "2022-10-04T07:17:54",
+   "date_unixtime": "1664878674",
+   "from": "Nicolas Vinicius",
+   "from_id": "user5662188202",
+   "text": "estou a caminho do IF",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "estou a caminho do IF"
+    }
+   ]
+  },
+  {
+   "id": 150,
+   "type": "message",
+   "date": "2022-10-04T07:18:34",
+   "date_unixtime": "1664878714",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Estamos a caminho",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Estamos a caminho"
+    }
+   ]
+  },
+  {
+   "id": 151,
+   "type": "message",
+   "date": "2022-10-04T07:22:16",
+   "date_unixtime": "1664878936",
+   "from": "Nicolas Vinicius",
+   "from_id": "user5662188202",
+   "text": "ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ok"
+    }
+   ]
+  },
+  {
+   "id": 152,
+   "type": "message",
+   "date": "2022-10-04T07:27:29",
+   "date_unixtime": "1664879249",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Sexta dou aula prática de anfíbios no laboratório. Quero ir na EAJ quinta à noite para pegarmos uns bichos vivos. Alguém interessado em dar uma sapiada lá?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sexta dou aula prática de anfíbios no laboratório. Quero ir na EAJ quinta à noite para pegarmos uns bichos vivos. Alguém interessado em dar uma sapiada lá?"
+    }
+   ]
+  },
+  {
+   "id": 153,
+   "type": "message",
+   "date": "2022-10-04T09:57:10",
+   "date_unixtime": "1664888230",
+   "from": "Bryan",
+   "from_id": "user1282040094",
+   "reply_to_message_id": 152,
+   "text": "Eu estou interessado",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Eu estou interessado"
+    }
+   ]
+  },
+  {
+   "id": 154,
+   "type": "message",
+   "date": "2022-10-04T10:06:14",
+   "date_unixtime": "1664888774",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "infelizmente não fui abrir os baldes hoje por motivo de velhice/coluna travada/stress. Mas o relaxante muscular ajudou. Amanhã estarei no time",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "infelizmente não fui abrir os baldes hoje por motivo de velhice/coluna travada/stress. Mas o relaxante muscular ajudou. Amanhã estarei no time"
+    }
+   ]
+  },
+  {
+   "id": 155,
+   "type": "message",
+   "date": "2022-10-04T10:06:17",
+   "date_unixtime": "1664888777",
+   "edited": "2022-10-04T10:06:41",
+   "edited_unixtime": "1664888801",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": [
+    "Disponibilidade da ida a campo:\n",
+    {
+     "type": "link",
+     "text": "https://framadate.org/Wo9Mjv2sC9IFyJWC"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Disponibilidade da ida a campo:\n"
+    },
+    {
+     "type": "link",
+     "text": "https://framadate.org/Wo9Mjv2sC9IFyJWC"
+    }
+   ]
+  },
+  {
+   "id": 156,
+   "type": "service",
+   "date": "2022-10-04T10:06:22",
+   "date_unixtime": "1664888782",
+   "actor": "Ricardo da Silveira Filho",
+   "actor_id": "user236056101",
+   "action": "pin_message",
+   "message_id": 155,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 157,
+   "type": "message",
+   "date": "2022-10-04T12:53:48",
+   "date_unixtime": "1664898828",
+   "edited": "2022-10-04T12:54:24",
+   "edited_unixtime": "1664898864",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": [
+    {
+     "type": "mention_name",
+     "text": "Adrian",
+     "user_id": 5672618847
+    },
+    " , ",
+    {
+     "type": "mention_name",
+     "text": "Matheus",
+     "user_id": 1475727571
+    },
+    " e ",
+    {
+     "type": "mention_name",
+     "text": "Nicolas",
+     "user_id": 5662188202
+    },
+    ", como foi o campo?"
+   ],
+   "text_entities": [
+    {
+     "type": "mention_name",
+     "text": "Adrian",
+     "user_id": 5672618847
+    },
+    {
+     "type": "plain",
+     "text": " , "
+    },
+    {
+     "type": "mention_name",
+     "text": "Matheus",
+     "user_id": 1475727571
+    },
+    {
+     "type": "plain",
+     "text": " e "
+    },
+    {
+     "type": "mention_name",
+     "text": "Nicolas",
+     "user_id": 5662188202
+    },
+    {
+     "type": "plain",
+     "text": ", como foi o campo?"
+    }
+   ]
+  },
+  {
+   "id": 158,
+   "type": "message",
+   "date": "2022-10-04T13:52:01",
+   "date_unixtime": "1664902321",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Opa, terminamos rápido",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Opa, terminamos rápido"
+    }
+   ]
+  },
+  {
+   "id": 159,
+   "type": "message",
+   "date": "2022-10-04T13:56:15",
+   "date_unixtime": "1664902575",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": [
+    "quem irá amanhã, ",
+    {
+     "type": "mention_name",
+     "text": "Adrian",
+     "user_id": 5672618847
+    },
+    "?"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "quem irá amanhã, "
+    },
+    {
+     "type": "mention_name",
+     "text": "Adrian",
+     "user_id": 5672618847
+    },
+    {
+     "type": "plain",
+     "text": "?"
+    }
+   ]
+  },
+  {
+   "id": 160,
+   "type": "message",
+   "date": "2022-10-04T13:56:31",
+   "date_unixtime": "1664902591",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Já mando",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Já mando"
+    }
+   ]
+  },
+  {
+   "id": 161,
+   "type": "message",
+   "date": "2022-10-04T13:56:36",
+   "date_unixtime": "1664902596",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Vc vai poder?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Vc vai poder?"
+    }
+   ]
+  },
+  {
+   "id": 162,
+   "type": "message",
+   "date": "2022-10-04T13:56:40",
+   "date_unixtime": "1664902600",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "vou",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "vou"
+    }
+   ]
+  },
+  {
+   "id": 163,
+   "type": "message",
+   "date": "2022-10-04T13:56:47",
+   "date_unixtime": "1664902607",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Foi bem tranquilo, Ricardo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Foi bem tranquilo, Ricardo"
+    }
+   ]
+  },
+  {
+   "id": 164,
+   "type": "message",
+   "date": "2022-10-04T13:56:55",
+   "date_unixtime": "1664902615",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Talvez eu tenha que levar minha mãe no reumatologista de manhã",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Talvez eu tenha que levar minha mãe no reumatologista de manhã"
+    }
+   ]
+  },
+  {
+   "id": 165,
+   "type": "message",
+   "date": "2022-10-04T13:57:00",
+   "date_unixtime": "1664902620",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 315,
+   "height": 579,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 166,
+   "type": "message",
+   "date": "2022-10-04T13:57:02",
+   "date_unixtime": "1664902622",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Confirmo já",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Confirmo já"
+    }
+   ]
+  },
+  {
+   "id": 167,
+   "type": "message",
+   "date": "2022-10-04T13:57:08",
+   "date_unixtime": "1664902628",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "ok!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ok!"
+    }
+   ]
+  },
+  {
+   "id": 168,
+   "type": "message",
+   "date": "2022-10-04T13:57:35",
+   "date_unixtime": "1664902655",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "reply_to_message_id": 165,
+   "text": "Aqui tem mais gente por dia do que é possível levar no carro…Jaja mando a lista",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Aqui tem mais gente por dia do que é possível levar no carro…Jaja mando a lista"
+    }
+   ]
+  },
+  {
+   "id": 169,
+   "type": "message",
+   "date": "2022-10-04T13:57:51",
+   "date_unixtime": "1664902671",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "pois é, muita gente disponível amanhã =)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pois é, muita gente disponível amanhã =)"
+    }
+   ]
+  },
+  {
+   "id": 170,
+   "type": "message",
+   "date": "2022-10-04T13:58:03",
+   "date_unixtime": "1664902683",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Se alguém que nunca foi quiser ir no meu lugar, tudo bem. É bom que eles ja descobrem como é",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Se alguém que nunca foi quiser ir no meu lugar, tudo bem. É bom que eles ja descobrem como é"
+    }
+   ]
+  },
+  {
+   "id": 171,
+   "type": "message",
+   "date": "2022-10-04T13:58:10",
+   "date_unixtime": "1664902690",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Hoje o Nicolas só abriu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hoje o Nicolas só abriu"
+    }
+   ]
+  },
+  {
+   "id": 172,
+   "type": "message",
+   "date": "2022-10-04T13:58:19",
+   "date_unixtime": "1664902699",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Amanhã que a mágica acontece",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Amanhã que a mágica acontece"
+    }
+   ]
+  },
+  {
+   "id": 173,
+   "type": "message",
+   "date": "2022-10-04T13:58:28",
+   "date_unixtime": "1664902708",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "como estão as lagoas?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "como estão as lagoas?"
+    }
+   ]
+  },
+  {
+   "id": 174,
+   "type": "message",
+   "date": "2022-10-04T13:58:39",
+   "date_unixtime": "1664902719",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Bem cheias ainda",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Bem cheias ainda"
+    }
+   ]
+  },
+  {
+   "id": 175,
+   "type": "message",
+   "date": "2022-10-04T13:58:54",
+   "date_unixtime": "1664902734",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "chegaram a passar pelo atoleiro?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "chegaram a passar pelo atoleiro?"
+    }
+   ]
+  },
+  {
+   "id": 176,
+   "type": "message",
+   "date": "2022-10-04T13:59:23",
+   "date_unixtime": "1664902763",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Não, voltamos do ponto 6",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Não, voltamos do ponto 6"
+    }
+   ]
+  },
+  {
+   "id": 177,
+   "type": "message",
+   "date": "2022-10-04T13:59:33",
+   "date_unixtime": "1664902773",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Mas ainda tinha água na \"pista\" do carro",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Mas ainda tinha água na \"pista\" do carro"
+    }
+   ]
+  },
+  {
+   "id": 178,
+   "type": "message",
+   "date": "2022-10-04T14:00:13",
+   "date_unixtime": "1664902813",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "O Gilvan, motorista do CB, entrou rápido na poça e sujou o carro todo, hshshs",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "O Gilvan, motorista do CB, entrou rápido na poça e sujou o carro todo, hshshs"
+    }
+   ]
+  },
+  {
+   "id": 179,
+   "type": "message",
+   "date": "2022-10-04T14:00:50",
+   "date_unixtime": "1664902850",
+   "edited": "2022-10-04T14:01:45",
+   "edited_unixtime": "1664902905",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Kkkk ele tava com pressa",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Kkkk ele tava com pressa"
+    }
+   ]
+  },
+  {
+   "id": 180,
+   "type": "message",
+   "date": "2022-10-04T14:00:53",
+   "date_unixtime": "1664902853",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "🫣",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🫣"
+    }
+   ]
+  },
+  {
+   "id": 181,
+   "type": "message",
+   "date": "2022-10-04T14:06:03",
+   "date_unixtime": "1664903163",
+   "edited": "2022-10-04T16:49:57",
+   "edited_unixtime": "1664912997",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 720,
+   "height": 1280,
+   "text": "A nova mochila de campo tá pronta 😁",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "A nova mochila de campo tá pronta 😁"
+    }
+   ]
+  },
+  {
+   "id": 182,
+   "type": "service",
+   "date": "2022-10-04T15:40:53",
+   "date_unixtime": "1664908853",
+   "actor": "Vitória",
+   "actor_id": "user887571859",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 183,
+   "type": "message",
+   "date": "2022-10-04T16:50:51",
+   "date_unixtime": "1664913051",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 184,
+   "type": "message",
+   "date": "2022-10-04T16:51:10",
+   "date_unixtime": "1664913070",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Gente, amanhã estavam lista das essas pessoas",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Gente, amanhã estavam lista das essas pessoas"
+    }
+   ]
+  },
+  {
+   "id": 185,
+   "type": "message",
+   "date": "2022-10-04T16:51:23",
+   "date_unixtime": "1664913083",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Matheus deve ir tb, correto Matheus?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Matheus deve ir tb, correto Matheus?"
+    }
+   ]
+  },
+  {
+   "id": 186,
+   "type": "message",
+   "date": "2022-10-04T16:51:37",
+   "date_unixtime": "1664913097",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Herica e Vinícius, confirmem por favor",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Herica e Vinícius, confirmem por favor"
+    }
+   ]
+  },
+  {
+   "id": 187,
+   "type": "message",
+   "date": "2022-10-04T16:51:55",
+   "date_unixtime": "1664913115",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Ricardo, vou realmente levar minha mãe ao reumatologista",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ricardo, vou realmente levar minha mãe ao reumatologista"
+    }
+   ]
+  },
+  {
+   "id": 188,
+   "type": "message",
+   "date": "2022-10-04T16:52:16",
+   "date_unixtime": "1664913136",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Beleza Adrian",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Beleza Adrian"
+    }
+   ]
+  },
+  {
+   "id": 189,
+   "type": "message",
+   "date": "2022-10-04T16:53:31",
+   "date_unixtime": "1664913211",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Vitoria, podemos encaixar vc em alguns desses dias",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Vitoria, podemos encaixar vc em alguns desses dias"
+    }
+   ]
+  },
+  {
+   "id": 190,
+   "type": "message",
+   "date": "2022-10-04T16:53:44",
+   "date_unixtime": "1664913224",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Não vai ter carro da UF, certo?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Não vai ter carro da UF, certo?"
+    }
+   ]
+  },
+  {
+   "id": 191,
+   "type": "message",
+   "date": "2022-10-04T16:55:01",
+   "date_unixtime": "1664913301",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Amanhã tem sim",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Amanhã tem sim"
+    }
+   ]
+  },
+  {
+   "id": 192,
+   "type": "message",
+   "date": "2022-10-04T16:55:04",
+   "date_unixtime": "1664913304",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "E quinta tb",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "E quinta tb"
+    }
+   ]
+  },
+  {
+   "id": 193,
+   "type": "message",
+   "date": "2022-10-04T16:55:21",
+   "date_unixtime": "1664913321",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Deixa eu atualizar aqui",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Deixa eu atualizar aqui"
+    }
+   ]
+  },
+  {
+   "id": 194,
+   "type": "message",
+   "date": "2022-10-04T16:58:10",
+   "date_unixtime": "1664913490",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 195,
+   "type": "message",
+   "date": "2022-10-04T17:00:17",
+   "date_unixtime": "1664913617",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": [
+    {
+     "type": "mention_name",
+     "text": "Matheus",
+     "user_id": 1475727571
+    },
+    " , ",
+    {
+     "type": "mention_name",
+     "text": "Winicius",
+     "user_id": 5680581605
+    },
+    " , vocês esperam na agaé às 7?"
+   ],
+   "text_entities": [
+    {
+     "type": "mention_name",
+     "text": "Matheus",
+     "user_id": 1475727571
+    },
+    {
+     "type": "plain",
+     "text": " , "
+    },
+    {
+     "type": "mention_name",
+     "text": "Winicius",
+     "user_id": 5680581605
+    },
+    {
+     "type": "plain",
+     "text": " , vocês esperam na agaé às 7?"
+    }
+   ]
+  },
+  {
+   "id": 196,
+   "type": "message",
+   "date": "2022-10-04T17:01:16",
+   "date_unixtime": "1664913676",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Terça eu vou junto para fechar os baldes tb",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Terça eu vou junto para fechar os baldes tb"
+    }
+   ]
+  },
+  {
+   "id": 197,
+   "type": "message",
+   "date": "2022-10-04T17:02:19",
+   "date_unixtime": "1664913739",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Tem que vir antes das 7 separar o material para levar.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Tem que vir antes das 7 separar o material para levar."
+    }
+   ]
+  },
+  {
+   "id": 198,
+   "type": "message",
+   "date": "2022-10-04T17:02:33",
+   "date_unixtime": "1664913753",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Vou deixar os formulários impressos aqui",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Vou deixar os formulários impressos aqui"
+    }
+   ]
+  },
+  {
+   "id": 199,
+   "type": "message",
+   "date": "2022-10-04T17:02:41",
+   "date_unixtime": "1664913761",
+   "from": "Nicolas Vinicius",
+   "from_id": "user5662188202",
+   "text": "confirmado pra amanhã, pode ser no IF novamente?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "confirmado pra amanhã, pode ser no IF novamente?"
+    }
+   ]
+  },
+  {
+   "id": 200,
+   "type": "message",
+   "date": "2022-10-04T17:02:42",
+   "date_unixtime": "1664913762",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "reply_to_message_id": 197,
+   "text": "certo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "certo"
+    }
+   ]
+  },
+  {
+   "id": 201,
+   "type": "message",
+   "date": "2022-10-04T17:02:53",
+   "date_unixtime": "1664913773",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "reply_to_message_id": 199,
+   "text": "pode ser, te aviso quando estivermos saindo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pode ser, te aviso quando estivermos saindo"
+    }
+   ]
+  },
+  {
+   "id": 202,
+   "type": "message",
+   "date": "2022-10-04T17:03:41",
+   "date_unixtime": "1664913821",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "reply_to_message_id": 194,
+   "text": "Gente eu vou q dia?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Gente eu vou q dia?"
+    }
+   ]
+  },
+  {
+   "id": 203,
+   "type": "message",
+   "date": "2022-10-04T17:03:57",
+   "date_unixtime": "1664913837",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Opa",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Opa"
+    }
+   ]
+  },
+  {
+   "id": 204,
+   "type": "message",
+   "date": "2022-10-04T17:04:03",
+   "date_unixtime": "1664913843",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Quando vc volta?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Quando vc volta?"
+    }
+   ]
+  },
+  {
+   "id": 205,
+   "type": "service",
+   "date": "2022-10-04T17:04:21",
+   "date_unixtime": "1664913861",
+   "actor": "Ricardo da Silveira Filho",
+   "actor_id": "user236056101",
+   "action": "pin_message",
+   "message_id": 194,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 206,
+   "type": "message",
+   "date": "2022-10-04T17:04:49",
+   "date_unixtime": "1664913889",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "Eu chego aí sexta de noite",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Eu chego aí sexta de noite"
+    }
+   ]
+  },
+  {
+   "id": 207,
+   "type": "message",
+   "date": "2022-10-04T17:04:57",
+   "date_unixtime": "1664913897",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "Eu preenchi o pool",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Eu preenchi o pool"
+    }
+   ]
+  },
+  {
+   "id": 208,
+   "type": "message",
+   "date": "2022-10-04T17:05:10",
+   "date_unixtime": "1664913910",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Certo, vou rearranjar aqui",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Certo, vou rearranjar aqui"
+    }
+   ]
+  },
+  {
+   "id": 209,
+   "type": "message",
+   "date": "2022-10-04T17:05:44",
+   "date_unixtime": "1664913944",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Não olhei com cuidado, tava na correria e só consertei algumas coisas",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Não olhei com cuidado, tava na correria e só consertei algumas coisas"
+    }
+   ]
+  },
+  {
+   "id": 210,
+   "type": "message",
+   "date": "2022-10-04T17:09:32",
+   "date_unixtime": "1664914172",
+   "from": "Nicolas Vinicius",
+   "from_id": "user5662188202",
+   "reply_to_message_id": 201,
+   "text": "blz",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "blz"
+    }
+   ]
+  },
+  {
+   "id": 211,
+   "type": "message",
+   "date": "2022-10-04T17:11:23",
+   "date_unixtime": "1664914283",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "Tabom",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Tabom"
+    }
+   ]
+  },
+  {
+   "id": 212,
+   "type": "message",
+   "date": "2022-10-04T17:14:48",
+   "date_unixtime": "1664914488",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "reply_to_message_id": 194,
+   "text": "Posso ir amanhã sim",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Posso ir amanhã sim"
+    }
+   ]
+  },
+  {
+   "id": 213,
+   "type": "message",
+   "date": "2022-10-04T17:15:50",
+   "date_unixtime": "1664914550",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": [
+    {
+     "type": "mention",
+     "text": "@ricardodasilveirafh"
+    },
+    " você vai antes das 7 pro lab organizar as coisas?"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@ricardodasilveirafh"
+    },
+    {
+     "type": "plain",
+     "text": " você vai antes das 7 pro lab organizar as coisas?"
+    }
+   ]
+  },
+  {
+   "id": 214,
+   "type": "message",
+   "date": "2022-10-04T17:15:57",
+   "date_unixtime": "1664914557",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "vou",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "vou"
+    }
+   ]
+  },
+  {
+   "id": 215,
+   "type": "message",
+   "date": "2022-10-04T17:16:04",
+   "date_unixtime": "1664914564",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Quer ajuda?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Quer ajuda?"
+    }
+   ]
+  },
+  {
+   "id": 216,
+   "type": "message",
+   "date": "2022-10-04T17:16:15",
+   "date_unixtime": "1664914575",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "quero sim",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "quero sim"
+    }
+   ]
+  },
+  {
+   "id": 217,
+   "type": "message",
+   "date": "2022-10-04T17:16:26",
+   "date_unixtime": "1664914586",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Show, 6 e quanto por lá?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Show, 6 e quanto por lá?"
+    }
+   ]
+  },
+  {
+   "id": 218,
+   "type": "message",
+   "date": "2022-10-04T17:16:56",
+   "date_unixtime": "1664914616",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "6:40, tem agua pra encher tb",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "6:40, tem agua pra encher tb"
+    }
+   ]
+  },
+  {
+   "id": 219,
+   "type": "message",
+   "date": "2022-10-04T17:17:17",
+   "date_unixtime": "1664914637",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Blz, 6:40 tô batendo lá na porta do lab",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Blz, 6:40 tô batendo lá na porta do lab"
+    }
+   ]
+  },
+  {
+   "id": 220,
+   "type": "message",
+   "date": "2022-10-04T17:17:25",
+   "date_unixtime": "1664914645",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "é nenhuma",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "é nenhuma"
+    }
+   ]
+  },
+  {
+   "id": 221,
+   "type": "message",
+   "date": "2022-10-04T17:17:58",
+   "date_unixtime": "1664914678",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Oq? Kk",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Oq? Kk"
+    }
+   ]
+  },
+  {
+   "id": 222,
+   "type": "message",
+   "date": "2022-10-04T17:18:47",
+   "date_unixtime": "1664914727",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "gíria baiana pra: beleza",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "gíria baiana pra: beleza"
+    }
+   ]
+  },
+  {
+   "id": 223,
+   "type": "message",
+   "date": "2022-10-04T17:18:48",
+   "date_unixtime": "1664914728",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "hehe",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "hehe"
+    }
+   ]
+  },
+  {
+   "id": 224,
+   "type": "message",
+   "date": "2022-10-04T17:22:14",
+   "date_unixtime": "1664914934",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Kkkkk Maravilha",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Kkkkk Maravilha"
+    }
+   ]
+  },
+  {
+   "id": 225,
+   "type": "message",
+   "date": "2022-10-04T18:05:30",
+   "date_unixtime": "1664917530",
+   "from": "Winicius Costa",
+   "from_id": "user5680581605",
+   "reply_to_message_id": 195,
+   "text": "Espero sim",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Espero sim"
+    }
+   ]
+  },
+  {
+   "id": 226,
+   "type": "message",
+   "date": "2022-10-04T20:40:30",
+   "date_unixtime": "1664926830",
+   "from": "Vitória",
+   "from_id": "user887571859",
+   "reply_to_message_id": 194,
+   "text": "professor, essa é a atualizada? porq eu acho q to amanhã n?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "professor, essa é a atualizada? porq eu acho q to amanhã n?"
+    }
+   ]
+  },
+  {
+   "id": 227,
+   "type": "message",
+   "date": "2022-10-04T20:40:34",
+   "date_unixtime": "1664926834",
+   "from": "Vitória",
+   "from_id": "user887571859",
+   "text": "e sexta?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "e sexta?"
+    }
+   ]
+  },
+  {
+   "id": 228,
+   "type": "message",
+   "date": "2022-10-05T05:29:27",
+   "date_unixtime": "1664958567",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "reply_to_message_id": 194,
+   "text": "Essa é a atual",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Essa é a atual"
+    }
+   ]
+  },
+  {
+   "id": 229,
+   "type": "message",
+   "date": "2022-10-05T06:40:01",
+   "date_unixtime": "1664962801",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": [
+    {
+     "type": "mention",
+     "text": "@ricardodasilveirafh"
+    },
+    " to aqui no lab"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@ricardodasilveirafh"
+    },
+    {
+     "type": "plain",
+     "text": " to aqui no lab"
+    }
+   ]
+  },
+  {
+   "id": 230,
+   "type": "message",
+   "date": "2022-10-05T06:49:59",
+   "date_unixtime": "1664963399",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "reply_to_message_id": 227,
+   "text": "Vou colocar vc lá e vejo se consigo em outros dias",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Vou colocar vc lá e vejo se consigo em outros dias"
+    }
+   ]
+  },
+  {
+   "id": 231,
+   "type": "message",
+   "date": "2022-10-05T06:50:43",
+   "date_unixtime": "1664963443",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": [
+    "Das próximas vezes peço que a ",
+    {
+     "type": "mention_name",
+     "text": "Maria Beatriz de Andrade",
+     "user_id": 5410302974
+    },
+    " organize a lista de quem vai em cada dia"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Das próximas vezes peço que a "
+    },
+    {
+     "type": "mention_name",
+     "text": "Maria Beatriz de Andrade",
+     "user_id": 5410302974
+    },
+    {
+     "type": "plain",
+     "text": " organize a lista de quem vai em cada dia"
+    }
+   ]
+  },
+  {
+   "id": 232,
+   "type": "message",
+   "date": "2022-10-05T06:53:19",
+   "date_unixtime": "1664963599",
+   "from": "Nicolas Vinicius",
+   "from_id": "user5662188202",
+   "text": "bom dia, quando estiverem a caminho, avisem por favor",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "bom dia, quando estiverem a caminho, avisem por favor"
+    }
+   ]
+  },
+  {
+   "id": 233,
+   "type": "message",
+   "date": "2022-10-05T06:53:28",
+   "date_unixtime": "1664963608",
+   "edited": "2022-10-05T06:55:46",
+   "edited_unixtime": "1664963746",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "reply_to_message_id": 231,
+   "text": "Tabom",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Tabom"
+    }
+   ]
+  },
+  {
+   "id": 234,
+   "type": "message",
+   "date": "2022-10-05T07:02:01",
+   "date_unixtime": "1664964121",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Saindo da uf",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Saindo da uf"
+    }
+   ]
+  },
+  {
+   "id": 235,
+   "type": "message",
+   "date": "2022-10-05T07:08:36",
+   "date_unixtime": "1664964516",
+   "from": "Nicolas Vinicius",
+   "from_id": "user5662188202",
+   "text": "ok, estou a caminho",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ok, estou a caminho"
+    }
+   ]
+  },
+  {
+   "id": 236,
+   "type": "message",
+   "date": "2022-10-05T11:17:54",
+   "date_unixtime": "1664979474",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Muitos bichos?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Muitos bichos?"
+    }
+   ]
+  },
+  {
+   "id": 237,
+   "type": "message",
+   "date": "2022-10-05T11:18:49",
+   "date_unixtime": "1664979529",
+   "edited": "2022-10-05T11:19:26",
+   "edited_unixtime": "1664979566",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Tô levando um elachistocleis",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Tô levando um elachistocleis"
+    }
+   ]
+  },
+  {
+   "id": 238,
+   "type": "message",
+   "date": "2022-10-05T11:19:33",
+   "date_unixtime": "1664979573",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "❤️❤️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "❤️❤️"
+    }
+   ]
+  },
+  {
+   "id": 239,
+   "type": "message",
+   "date": "2022-10-05T11:20:43",
+   "date_unixtime": "1664979643",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 240,
+   "type": "message",
+   "date": "2022-10-05T11:23:58",
+   "date_unixtime": "1664979838",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "🤔",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🤔"
+    }
+   ]
+  },
+  {
+   "id": 241,
+   "type": "message",
+   "date": "2022-10-05T11:24:07",
+   "date_unixtime": "1664979847",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "E.ovalis?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "E.ovalis?"
+    }
+   ]
+  },
+  {
+   "id": 242,
+   "type": "message",
+   "date": "2022-10-05T11:24:12",
+   "date_unixtime": "1664979852",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "É",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "É"
+    }
+   ]
+  },
+  {
+   "id": 243,
+   "type": "message",
+   "date": "2022-10-05T11:24:26",
+   "date_unixtime": "1664979866",
+   "edited": "2022-10-05T11:57:13",
+   "edited_unixtime": "1664981833",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Eu acho que é. Hehe",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Eu acho que é. Hehe"
+    }
+   ]
+  },
+  {
+   "id": 244,
+   "type": "message",
+   "date": "2022-10-05T11:57:02",
+   "date_unixtime": "1664981822",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "O Gymnodactylus é geckoides",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "O Gymnodactylus é geckoides"
+    }
+   ]
+  },
+  {
+   "id": 245,
+   "type": "message",
+   "date": "2022-10-05T11:57:29",
+   "date_unixtime": "1664981849",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "reply_to_message_id": 241,
+   "text": "Elachistocleis",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Elachistocleis"
+    }
+   ]
+  },
+  {
+   "id": 246,
+   "type": "message",
+   "date": "2022-10-05T11:57:29",
+   "date_unixtime": "1664981849",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Eu sempre confundo os dois",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Eu sempre confundo os dois"
+    }
+   ]
+  },
+  {
+   "id": 247,
+   "type": "message",
+   "date": "2022-10-05T11:57:50",
+   "date_unixtime": "1664981870",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Gente, esse ponto 9…",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Gente, esse ponto 9…"
+    }
+   ]
+  },
+  {
+   "id": 248,
+   "type": "message",
+   "date": "2022-10-05T11:57:55",
+   "date_unixtime": "1664981875",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "😜",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😜"
+    }
+   ]
+  },
+  {
+   "id": 249,
+   "type": "message",
+   "date": "2022-10-05T11:58:50",
+   "date_unixtime": "1664981930",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Tiveram 3 kentropyx graúdos",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Tiveram 3 kentropyx graúdos"
+    }
+   ]
+  },
+  {
+   "id": 250,
+   "type": "message",
+   "date": "2022-10-05T11:59:57",
+   "date_unixtime": "1664981997",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "reply_to_message_id": 247,
+   "text": "É a galinha dos ovos de ouro",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "É a galinha dos ovos de ouro"
+    }
+   ]
+  },
+  {
+   "id": 251,
+   "type": "message",
+   "date": "2022-10-05T12:00:00",
+   "date_unixtime": "1664982000",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Nunca falha",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Nunca falha"
+    }
+   ]
+  },
+  {
+   "id": 252,
+   "type": "message",
+   "date": "2022-10-05T16:09:44",
+   "date_unixtime": "1664996984",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Boa tarde, gente",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Boa tarde, gente"
+    }
+   ]
+  },
+  {
+   "id": 253,
+   "type": "message",
+   "date": "2022-10-05T16:11:01",
+   "date_unixtime": "1664997061",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "reply_to_message_id": 194,
+   "text": [
+    "Amanhã estão elencados o ",
+    {
+     "type": "mention_name",
+     "text": "Winicius",
+     "user_id": 5680581605
+    },
+    " , ",
+    {
+     "type": "mention",
+     "text": "@Herica3"
+    },
+    " e ",
+    {
+     "type": "mention_name",
+     "text": "Matheus",
+     "user_id": 1475727571
+    },
+    " , todas confirmadas?"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Amanhã estão elencados o "
+    },
+    {
+     "type": "mention_name",
+     "text": "Winicius",
+     "user_id": 5680581605
+    },
+    {
+     "type": "plain",
+     "text": " , "
+    },
+    {
+     "type": "mention",
+     "text": "@Herica3"
+    },
+    {
+     "type": "plain",
+     "text": " e "
+    },
+    {
+     "type": "mention_name",
+     "text": "Matheus",
+     "user_id": 1475727571
+    },
+    {
+     "type": "plain",
+     "text": " , todas confirmadas?"
+    }
+   ]
+  },
+  {
+   "id": 254,
+   "type": "message",
+   "date": "2022-10-05T16:13:10",
+   "date_unixtime": "1664997190",
+   "from": "Fabiany Herica Figueiredo",
+   "from_id": "user5665649293",
+   "reply_to_message_id": 253,
+   "text": "Sim, confirmado",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sim, confirmado"
+    }
+   ]
+  },
+  {
+   "id": 255,
+   "type": "message",
+   "date": "2022-10-05T16:15:15",
+   "date_unixtime": "1664997315",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Às 7 no lab ou agaé, beleza?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Às 7 no lab ou agaé, beleza?"
+    }
+   ]
+  },
+  {
+   "id": 256,
+   "type": "message",
+   "date": "2022-10-05T16:15:46",
+   "date_unixtime": "1664997346",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": [
+    {
+     "type": "mention_name",
+     "text": "Matheus",
+     "user_id": 1475727571
+    },
+    " quer bater o recorde de animais coletados no ponto 9"
+   ],
+   "text_entities": [
+    {
+     "type": "mention_name",
+     "text": "Matheus",
+     "user_id": 1475727571
+    },
+    {
+     "type": "plain",
+     "text": " quer bater o recorde de animais coletados no ponto 9"
+    }
+   ]
+  },
+  {
+   "id": 257,
+   "type": "message",
+   "date": "2022-10-05T16:29:25",
+   "date_unixtime": "1664998165",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Vou pro lab, fica melhor pra mim",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Vou pro lab, fica melhor pra mim"
+    }
+   ]
+  },
+  {
+   "id": 258,
+   "type": "message",
+   "date": "2022-10-05T16:29:41",
+   "date_unixtime": "1664998181",
+   "edited": "2022-10-05T16:30:00",
+   "edited_unixtime": "1664998200",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "reply_to_message_id": 256,
+   "text": "Amanhã vão ser 35 só no 9",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Amanhã vão ser 35 só no 9"
+    }
+   ]
+  },
+  {
+   "id": 259,
+   "type": "message",
+   "date": "2022-10-05T16:33:01",
+   "date_unixtime": "1664998381",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "reply_to_message_id": 257,
+   "text": "niuma",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "niuma"
+    }
+   ]
+  },
+  {
+   "id": 260,
+   "type": "message",
+   "date": "2022-10-05T16:33:23",
+   "date_unixtime": "1664998403",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "reply_to_message_id": 258,
+   "text": "tá é dodjo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "tá é dodjo"
+    }
+   ]
+  },
+  {
+   "id": 261,
+   "type": "message",
+   "date": "2022-10-05T16:35:27",
+   "date_unixtime": "1664998527",
+   "edited": "2022-10-05T16:35:41",
+   "edited_unixtime": "1664998541",
+   "from": "Fabiany Herica Figueiredo",
+   "from_id": "user5665649293",
+   "reply_to_message_id": 255,
+   "text": "Okay, estarei na Agaé",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Okay, estarei na Agaé"
+    }
+   ]
+  },
+  {
+   "id": 262,
+   "type": "message",
+   "date": "2022-10-05T16:36:02",
+   "date_unixtime": "1664998562",
+   "from": "Winicius Costa",
+   "from_id": "user5680581605",
+   "reply_to_message_id": 255,
+   "text": "Show",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Show"
+    }
+   ]
+  },
+  {
+   "id": 263,
+   "type": "message",
+   "date": "2022-10-05T16:38:43",
+   "date_unixtime": "1664998723",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Gente, aqui no telegram tem um bot do Aos Fatos, que analisa as notícias e mostram se elas são verdadeiras ou não",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Gente, aqui no telegram tem um bot do Aos Fatos, que analisa as notícias e mostram se elas são verdadeiras ou não"
+    }
+   ]
+  },
+  {
+   "id": 264,
+   "type": "message",
+   "date": "2022-10-05T16:38:44",
+   "date_unixtime": "1664998724",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": [
+    {
+     "type": "mention",
+     "text": "@AosFatosFatimaBot"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@AosFatosFatimaBot"
+    }
+   ]
+  },
+  {
+   "id": 265,
+   "type": "message",
+   "date": "2022-10-05T16:39:19",
+   "date_unixtime": "1664998759",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Usem e abusem =)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Usem e abusem =)"
+    }
+   ]
+  },
+  {
+   "id": 266,
+   "type": "message",
+   "date": "2022-10-05T16:42:21",
+   "date_unixtime": "1664998941",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "Tenho uma pergunta",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Tenho uma pergunta"
+    }
+   ]
+  },
+  {
+   "id": 267,
+   "type": "message",
+   "date": "2022-10-05T16:42:58",
+   "date_unixtime": "1664998978",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "Eu estive tentando baixar alguns artigo pelo sci hub esses dias e n abre de jeito nenhum no meu pc",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Eu estive tentando baixar alguns artigo pelo sci hub esses dias e n abre de jeito nenhum no meu pc"
+    }
+   ]
+  },
+  {
+   "id": 268,
+   "type": "message",
+   "date": "2022-10-05T16:43:19",
+   "date_unixtime": "1664998999",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "Queria saber, se alguém souber me informar",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Queria saber, se alguém souber me informar"
+    }
+   ]
+  },
+  {
+   "id": 269,
+   "type": "message",
+   "date": "2022-10-05T16:43:28",
+   "date_unixtime": "1664999008",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Tenta aqui ó",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Tenta aqui ó"
+    }
+   ]
+  },
+  {
+   "id": 270,
+   "type": "message",
+   "date": "2022-10-05T16:43:28",
+   "date_unixtime": "1664999008",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://t.me/scihubot"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://t.me/scihubot"
+    }
+   ]
+  },
+  {
+   "id": 271,
+   "type": "message",
+   "date": "2022-10-05T16:43:37",
+   "date_unixtime": "1664999017",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "o bot do sci-hub no telegram",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "o bot do sci-hub no telegram"
+    }
+   ]
+  },
+  {
+   "id": 272,
+   "type": "message",
+   "date": "2022-10-05T16:43:39",
+   "date_unixtime": "1664999019",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "Se isso pode ocorrer por conta da licença da microsof",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Se isso pode ocorrer por conta da licença da microsof"
+    }
+   ]
+  },
+  {
+   "id": 273,
+   "type": "message",
+   "date": "2022-10-05T16:43:42",
+   "date_unixtime": "1664999022",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "pra mim sempre funciona",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pra mim sempre funciona"
+    }
+   ]
+  },
+  {
+   "id": 274,
+   "type": "message",
+   "date": "2022-10-05T16:43:44",
+   "date_unixtime": "1664999024",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "?"
+    }
+   ]
+  },
+  {
+   "id": 275,
+   "type": "message",
+   "date": "2022-10-05T16:43:52",
+   "date_unixtime": "1664999032",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "Microsoft",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Microsoft"
+    }
+   ]
+  },
+  {
+   "id": 276,
+   "type": "message",
+   "date": "2022-10-05T16:44:17",
+   "date_unixtime": "1664999057",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Às vezes é o site que foi tirado do ar, eles tem que ficar migrando de servidor sempre",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Às vezes é o site que foi tirado do ar, eles tem que ficar migrando de servidor sempre"
+    }
+   ]
+  },
+  {
+   "id": 277,
+   "type": "message",
+   "date": "2022-10-05T16:44:37",
+   "date_unixtime": "1664999077",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "reply_to_message_id": 270,
+   "text": "Eu vou tentar, tomara q dê certo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Eu vou tentar, tomara q dê certo"
+    }
+   ]
+  },
+  {
+   "id": 278,
+   "type": "message",
+   "date": "2022-10-05T16:46:07",
+   "date_unixtime": "1664999167",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Gente",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Gente"
+    }
+   ]
+  },
+  {
+   "id": 279,
+   "type": "message",
+   "date": "2022-10-05T16:46:09",
+   "date_unixtime": "1664999169",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 494,
+   "height": 435,
+   "text": "basta colocar o DOI que ele te entrega o arquivo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "basta colocar o DOI que ele te entrega o arquivo"
+    }
+   ]
+  },
+  {
+   "id": 280,
+   "type": "message",
+   "date": "2022-10-05T16:46:24",
+   "date_unixtime": "1664999184",
+   "edited": "2022-10-05T16:46:46",
+   "edited_unixtime": "1664999206",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Usem o periódicos capes sempre como primeira tentativa",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Usem o periódicos capes sempre como primeira tentativa"
+    }
+   ]
+  },
+  {
+   "id": 281,
+   "type": "message",
+   "date": "2022-10-05T16:48:30",
+   "date_unixtime": "1664999310",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Se não usarmos o periódicos capes damos motivos para o governo parar de pagar e cortar",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Se não usarmos o periódicos capes damos motivos para o governo parar de pagar e cortar"
+    }
+   ]
+  },
+  {
+   "id": 282,
+   "type": "message",
+   "date": "2022-10-05T16:49:06",
+   "date_unixtime": "1664999346",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Diminui também a visibilidade do artigo que vc tá pegando, pois não fica registrado o acesso no site da revista",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Diminui também a visibilidade do artigo que vc tá pegando, pois não fica registrado o acesso no site da revista"
+    }
+   ]
+  },
+  {
+   "id": 283,
+   "type": "message",
+   "date": "2022-10-05T16:49:39",
+   "date_unixtime": "1664999379",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Mas, se não funcionar, podem sempre escrever para o autor correspondente",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Mas, se não funcionar, podem sempre escrever para o autor correspondente"
+    }
+   ]
+  },
+  {
+   "id": 284,
+   "type": "message",
+   "date": "2022-10-05T16:50:00",
+   "date_unixtime": "1664999400",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Se não funcionar, aí sim, outros métodos",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Se não funcionar, aí sim, outros métodos"
+    }
+   ]
+  },
+  {
+   "id": 285,
+   "type": "message",
+   "date": "2022-10-05T16:53:36",
+   "date_unixtime": "1664999616",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "reply_to_message_id": 279,
+   "text": "Valha pois deu foi certo aqui",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Valha pois deu foi certo aqui"
+    }
+   ]
+  },
+  {
+   "id": 286,
+   "type": "message",
+   "date": "2022-10-05T16:53:39",
+   "date_unixtime": "1664999619",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "Kkkkkkk",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Kkkkkkk"
+    }
+   ]
+  },
+  {
+   "id": 287,
+   "type": "message",
+   "date": "2022-10-05T16:53:41",
+   "date_unixtime": "1664999621",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "Valeu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Valeu"
+    }
+   ]
+  },
+  {
+   "id": 288,
+   "type": "message",
+   "date": "2022-10-05T16:53:57",
+   "date_unixtime": "1664999637",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "reply_to_message_id": 281,
+   "text": "Ta certo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ta certo"
+    }
+   ]
+  },
+  {
+   "id": 289,
+   "type": "message",
+   "date": "2022-10-05T16:55:17",
+   "date_unixtime": "1664999717",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "reply_to_message_id": 288,
+   "text": "🤙",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🤙"
+    }
+   ]
+  },
+  {
+   "id": 290,
+   "type": "message",
+   "date": "2022-10-05T16:56:52",
+   "date_unixtime": "1664999812",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "❤",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 291,
+   "type": "message",
+   "date": "2022-10-05T17:15:40",
+   "date_unixtime": "1665000940",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Foi legal terem trazido o Elachistocleis porque eu dei aula prática de anfíbios hoje. Mas podem soltar ele amanhã, já temos alguns na coleção didática",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Foi legal terem trazido o Elachistocleis porque eu dei aula prática de anfíbios hoje. Mas podem soltar ele amanhã, já temos alguns na coleção didática"
+    }
+   ]
+  },
+  {
+   "id": 292,
+   "type": "message",
+   "date": "2022-10-05T17:17:49",
+   "date_unixtime": "1665001069",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "pensei que quisesse fotografar, mas um bom uso já!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pensei que quisesse fotografar, mas um bom uso já!"
+    }
+   ]
+  },
+  {
+   "id": 293,
+   "type": "message",
+   "date": "2022-10-05T17:17:51",
+   "date_unixtime": "1665001071",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "amanhã soltamos ele",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "amanhã soltamos ele"
+    }
+   ]
+  },
+  {
+   "id": 294,
+   "type": "message",
+   "date": "2022-10-05T17:25:07",
+   "date_unixtime": "1665001507",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "reply_to_message_id": 239,
+   "text": "Não teve cuvieri ? Kkkk",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Não teve cuvieri ? Kkkk"
+    }
+   ]
+  },
+  {
+   "id": 295,
+   "type": "message",
+   "date": "2022-10-05T17:27:26",
+   "date_unixtime": "1665001646",
+   "from": "Bryan",
+   "from_id": "user1282040094",
+   "reply_to_message_id": 294,
+   "text": "Né isso, já tá deixando saudade",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Né isso, já tá deixando saudade"
+    }
+   ]
+  },
+  {
+   "id": 296,
+   "type": "message",
+   "date": "2022-10-05T17:27:59",
+   "date_unixtime": "1665001679",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Todo mundo entocando",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Todo mundo entocando"
+    }
+   ]
+  },
+  {
+   "id": 297,
+   "type": "message",
+   "date": "2022-10-05T17:28:15",
+   "date_unixtime": "1665001695",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "reply_to_message_id": 295,
+   "text": "Certeza kkk",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Certeza kkk"
+    }
+   ]
+  },
+  {
+   "id": 298,
+   "type": "message",
+   "date": "2022-10-05T17:28:37",
+   "date_unixtime": "1665001717",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "reply_to_message_id": 296,
+   "text": "Droga kkkk",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Droga kkkk"
+    }
+   ]
+  },
+  {
+   "id": 299,
+   "type": "message",
+   "date": "2022-10-05T17:35:07",
+   "date_unixtime": "1665002107",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Os sapos",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Os sapos"
+    }
+   ]
+  },
+  {
+   "id": 300,
+   "type": "message",
+   "date": "2022-10-05T17:35:17",
+   "date_unixtime": "1665002117",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Lagartos 🦎 não ligam",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lagartos 🦎 não ligam"
+    }
+   ]
+  },
+  {
+   "id": 301,
+   "type": "message",
+   "date": "2022-10-05T17:35:57",
+   "date_unixtime": "1665002157",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "text": "Realmente, eu vi que pegaram muitos lagartos hoje.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Realmente, eu vi que pegaram muitos lagartos hoje."
+    }
+   ]
+  },
+  {
+   "id": 302,
+   "type": "message",
+   "date": "2022-10-05T19:39:18",
+   "date_unixtime": "1665009558",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "2 ou 3 sapinhos só",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "2 ou 3 sapinhos só"
+    }
+   ]
+  },
+  {
+   "id": 303,
+   "type": "message",
+   "date": "2022-10-05T20:32:26",
+   "date_unixtime": "1665012746",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "text": "Gente tô indo pro Lab",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Gente tô indo pro Lab"
+    }
+   ]
+  },
+  {
+   "id": 304,
+   "type": "message",
+   "date": "2022-10-05T20:32:42",
+   "date_unixtime": "1665012762",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "text": "Se alguém precisar de ajuda em alguma coisa",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Se alguém precisar de ajuda em alguma coisa"
+    }
+   ]
+  },
+  {
+   "id": 305,
+   "type": "message",
+   "date": "2022-10-05T20:32:49",
+   "date_unixtime": "1665012769",
+   "from": "Daniel LAR",
+   "from_id": "user5681790424",
+   "text": "Tô por lá",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Tô por lá"
+    }
+   ]
+  },
+  {
+   "id": 306,
+   "type": "message",
+   "date": "2022-10-06T06:53:11",
+   "date_unixtime": "1665049991",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Todos a postos?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Todos a postos?"
+    }
+   ]
+  },
+  {
+   "id": 307,
+   "type": "message",
+   "date": "2022-10-06T06:54:13",
+   "date_unixtime": "1665050053",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Opa",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Opa"
+    }
+   ]
+  },
+  {
+   "id": 308,
+   "type": "message",
+   "date": "2022-10-06T06:54:16",
+   "date_unixtime": "1665050056",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Estou aq no cb",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Estou aq no cb"
+    }
+   ]
+  },
+  {
+   "id": 309,
+   "type": "message",
+   "date": "2022-10-06T06:59:59",
+   "date_unixtime": "1665050399",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "O moto ja chegou por aq também",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "O moto ja chegou por aq também"
+    }
+   ]
+  },
+  {
+   "id": 310,
+   "type": "message",
+   "date": "2022-10-06T07:04:49",
+   "date_unixtime": "1665050689",
+   "from": "Fabiany Herica Figueiredo",
+   "from_id": "user5665649293",
+   "reply_to_message_id": 306,
+   "text": "Eu e o Winicius já estamos em frente a Agaé",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Eu e o Winicius já estamos em frente a Agaé"
+    }
+   ]
+  },
+  {
+   "id": 311,
+   "type": "message",
+   "date": "2022-10-06T07:08:51",
+   "date_unixtime": "1665050931",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Chegamos já por aí",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Chegamos já por aí"
+    }
+   ]
+  },
+  {
+   "id": 312,
+   "type": "message",
+   "date": "2022-10-06T07:17:47",
+   "date_unixtime": "1665051467",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Valeu pessoal! Não vejo a hora de estar indo também",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Valeu pessoal! Não vejo a hora de estar indo também"
+    }
+   ]
+  },
+  {
+   "id": 313,
+   "type": "message",
+   "date": "2022-10-06T07:18:26",
+   "date_unixtime": "1665051506",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": "Pegando autorização de exame na Unimed…😖",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Pegando autorização de exame na Unimed…😖"
+    }
+   ]
+  },
+  {
+   "id": 314,
+   "type": "message",
+   "date": "2022-10-06T07:19:53",
+   "date_unixtime": "1665051593",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Hj a noite vou em Macaiba caçar sapo. Matheus e Bryan confirmam? Cabe mais 2 no carro",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hj a noite vou em Macaiba caçar sapo. Matheus e Bryan confirmam? Cabe mais 2 no carro"
+    }
+   ]
+  },
+  {
+   "id": 315,
+   "type": "message",
+   "date": "2022-10-06T07:28:53",
+   "date_unixtime": "1665052133",
+   "from": "Bryan",
+   "from_id": "user1282040094",
+   "text": "Opa, bom dia!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Opa, bom dia!"
+    }
+   ]
+  },
+  {
+   "id": 316,
+   "type": "message",
+   "date": "2022-10-06T07:29:02",
+   "date_unixtime": "1665052142",
+   "from": "Bryan",
+   "from_id": "user1282040094",
+   "reply_to_message_id": 314,
+   "text": "Confirmado! É de que horas mesmo?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Confirmado! É de que horas mesmo?"
+    }
+   ]
+  },
+  {
+   "id": 317,
+   "type": "message",
+   "date": "2022-10-06T10:38:13",
+   "date_unixtime": "1665063493",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 318,
+   "type": "message",
+   "date": "2022-10-06T10:38:19",
+   "date_unixtime": "1665063499",
+   "edited": "2022-10-06T10:39:15",
+   "edited_unixtime": "1665063555",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": "Equipe quinta feira de samba!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Equipe quinta feira de samba!"
+    }
+   ]
+  },
+  {
+   "id": 319,
+   "type": "message",
+   "date": "2022-10-06T10:39:27",
+   "date_unixtime": "1665063567",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "text": "Seu Gilvan Veloz e furioso!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Seu Gilvan Veloz e furioso!"
+    }
+   ]
+  },
+  {
+   "id": 320,
+   "type": "message",
+   "date": "2022-10-06T10:44:17",
+   "date_unixtime": "1665063857",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "😂😂😂😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😂😂😂😂"
+    }
+   ]
+  },
+  {
+   "id": 321,
+   "type": "message",
+   "date": "2022-10-06T10:47:54",
+   "date_unixtime": "1665064074",
+   "from": "Nicolas Vinicius",
+   "from_id": "user5662188202",
+   "reply_to_message_id": 319,
+   "text": "kkkkkkkkk",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "kkkkkkkkk"
+    }
+   ]
+  },
+  {
+   "id": 322,
+   "type": "message",
+   "date": "2022-10-06T10:49:30",
+   "date_unixtime": "1665064170",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "reply_to_message_id": 319,
+   "text": "Valha kkkkkk",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Valha kkkkkk"
+    }
+   ]
+  },
+  {
+   "id": 323,
+   "type": "message",
+   "date": "2022-10-06T10:51:10",
+   "date_unixtime": "1665064270",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "reply_to_message_id": 317,
+   "text": "Onde q fica esse ponto 6?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Onde q fica esse ponto 6?"
+    }
+   ]
+  },
+  {
+   "id": 324,
+   "type": "message",
+   "date": "2022-10-06T10:51:26",
+   "date_unixtime": "1665064286",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "É lá pra restinga?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "É lá pra restinga?"
+    }
+   ]
+  },
+  {
+   "id": 325,
+   "type": "message",
+   "date": "2022-10-06T10:51:36",
+   "date_unixtime": "1665064296",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Isso",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Isso"
+    }
+   ]
+  },
+  {
+   "id": 326,
+   "type": "message",
+   "date": "2022-10-06T10:51:48",
+   "date_unixtime": "1665064308",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "É o alterego do 9 😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "É o alterego do 9 😂"
+    }
+   ]
+  },
+  {
+   "id": 327,
+   "type": "message",
+   "date": "2022-10-06T10:51:58",
+   "date_unixtime": "1665064318",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "Kkkkkkkkkk",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Kkkkkkkkkk"
+    }
+   ]
+  },
+  {
+   "id": 328,
+   "type": "message",
+   "date": "2022-10-06T10:53:04",
+   "date_unixtime": "1665064384",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "Eu queria saber se pra lá tinha o Pseudopaludicola pocoto",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Eu queria saber se pra lá tinha o Pseudopaludicola pocoto"
+    }
+   ]
+  },
+  {
+   "id": 329,
+   "type": "message",
+   "date": "2022-10-06T10:53:41",
+   "date_unixtime": "1665064421",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Nao, tem pseudopaludicola jaredi",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Nao, tem pseudopaludicola jaredi"
+    }
+   ]
+  },
+  {
+   "id": 330,
+   "type": "message",
+   "date": "2022-10-06T10:53:48",
+   "date_unixtime": "1665064428",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "E mystacalis",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "E mystacalis"
+    }
+   ]
+  },
+  {
+   "id": 331,
+   "type": "message",
+   "date": "2022-10-06T10:53:48",
+   "date_unixtime": "1665064428",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "Hummmmmm",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hummmmmm"
+    }
+   ]
+  },
+  {
+   "id": 332,
+   "type": "message",
+   "date": "2022-10-06T10:53:54",
+   "date_unixtime": "1665064434",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "Sim vi ali",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sim vi ali"
+    }
+   ]
+  },
+  {
+   "id": 333,
+   "type": "message",
+   "date": "2022-10-06T10:54:47",
+   "date_unixtime": "1665064487",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "eu achei engraçado pq aqui pra Parnaíba ele é o primeiro a cantar assim q cai uma chuvinha pouca",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "eu achei engraçado pq aqui pra Parnaíba ele é o primeiro a cantar assim q cai uma chuvinha pouca"
+    }
+   ]
+  },
+  {
+   "id": 334,
+   "type": "message",
+   "date": "2022-10-06T10:55:22",
+   "date_unixtime": "1665064522",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "text": "E na época q fomos colocar as armadilhas n ouvi esse bicho",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "E na época q fomos colocar as armadilhas n ouvi esse bicho"
+    }
+   ]
+  },
+  {
+   "id": 335,
+   "type": "message",
+   "date": "2022-10-06T11:31:36",
+   "date_unixtime": "1665066696",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "reply_to_message_id": 314,
+   "text": "Acho que n vou conseguir ir hoje a noite",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Acho que n vou conseguir ir hoje a noite"
+    }
+   ]
+  },
+  {
+   "id": 336,
+   "type": "message",
+   "date": "2022-10-06T11:32:09",
+   "date_unixtime": "1665066729",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "reply_to_message_id": 319,
+   "text": "Com ou sem emoção? Kkkkkkkkkk",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Com ou sem emoção? Kkkkkkkkkk"
+    }
+   ]
+  },
+  {
+   "id": 337,
+   "type": "message",
+   "date": "2022-10-06T11:33:00",
+   "date_unixtime": "1665066780",
+   "from": "Maria Beatriz",
+   "from_id": "user5410302974",
+   "reply_to_message_id": 314,
+   "text": "O rolê dos sapos sempre fico de fora kkkkkk",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "O rolê dos sapos sempre fico de fora kkkkkk"
+    }
+   ]
+  },
+  {
+   "id": 338,
+   "type": "message",
+   "date": "2022-10-06T12:12:34",
+   "date_unixtime": "1665069154",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Vai ter muitos mais",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Vai ter muitos mais"
+    }
+   ]
+  },
+  {
+   "id": 339,
+   "type": "message",
+   "date": "2022-10-06T12:13:45",
+   "date_unixtime": "1665069225",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Sigo no médico, e a última marcou outra consulta com neurologista para hj a tarde 15:40…vai ser correria mas vou tentar ir hj ainda para macaiba",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sigo no médico, e a última marcou outra consulta com neurologista para hj a tarde 15:40…vai ser correria mas vou tentar ir hj ainda para macaiba"
+    }
+   ]
+  },
+  {
+   "id": 340,
+   "type": "message",
+   "date": "2022-10-06T12:16:05",
+   "date_unixtime": "1665069365",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Minha mãe também ta nessa correria. Na terça saí as 21 da noite, de uma ressonância com ela",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Minha mãe também ta nessa correria. Na terça saí as 21 da noite, de uma ressonância com ela"
+    }
+   ]
+  },
+  {
+   "id": 341,
+   "type": "message",
+   "date": "2022-10-06T12:29:03",
+   "date_unixtime": "1665070143",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Eita",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Eita"
+    }
+   ]
+  },
+  {
+   "id": 342,
+   "type": "message",
+   "date": "2022-10-06T12:29:16",
+   "date_unixtime": "1665070156",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Melhoras pra ela",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Melhoras pra ela"
+    }
+   ]
+  },
+  {
+   "id": 343,
+   "type": "message",
+   "date": "2022-10-06T12:51:09",
+   "date_unixtime": "1665071469",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Pra sua também",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Pra sua também"
+    }
+   ]
+  },
+  {
+   "id": 344,
+   "type": "message",
+   "date": "2022-10-06T12:55:27",
+   "date_unixtime": "1665071727",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "💪👊🏻🙏",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💪👊🏻🙏"
+    }
+   ]
+  },
+  {
+   "id": 345,
+   "type": "message",
+   "date": "2022-10-06T14:02:22",
+   "date_unixtime": "1665075742",
+   "from": "Matheus Lucas",
+   "from_id": "user1475727571",
+   "text": "Não vou conseguir ir pra Macaiba hj",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Não vou conseguir ir pra Macaiba hj"
+    }
+   ]
+  },
+  {
+   "id": 346,
+   "type": "message",
+   "date": "2022-10-06T14:36:10",
+   "date_unixtime": "1665077770",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Ao que tudo indica eu tb não vou conseguir",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ao que tudo indica eu tb não vou conseguir"
+    }
+   ]
+  },
+  {
+   "id": 347,
+   "type": "message",
+   "date": "2022-10-06T16:07:00",
+   "date_unixtime": "1665083220",
+   "from": "Bryan",
+   "from_id": "user1282040094",
+   "reply_to_message_id": 346,
+   "text": "Beleza, Adrian. Qualquer coisa estou aqui pelo CB. Melhoras para a sua mãe",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Beleza, Adrian. Qualquer coisa estou aqui pelo CB. Melhoras para a sua mãe"
+    }
+   ]
+  },
+  {
+   "id": 348,
+   "type": "message",
+   "date": "2022-10-06T16:08:51",
+   "date_unixtime": "1665083331",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "reply_to_message_id": 194,
+   "text": "Gente, amanhã tá marcado para irmos Ricardo, winicius, Herica eu e vitória. Ricardo não irá para ir no sabado, quando não poderei ir pois estarei levando minha mãe a um exame. Amanhã sairemos do CB as 7am, no meu carro. Matheus ou Bryan ou Nicolas querem ir?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Gente, amanhã tá marcado para irmos Ricardo, winicius, Herica eu e vitória. Ricardo não irá para ir no sabado, quando não poderei ir pois estarei levando minha mãe a um exame. Amanhã sairemos do CB as 7am, no meu carro. Matheus ou Bryan ou Nicolas querem ir?"
+    }
+   ]
+  },
+  {
+   "id": 349,
+   "type": "message",
+   "date": "2022-10-06T16:10:22",
+   "date_unixtime": "1665083422",
+   "from": "Nicolas Vinicius",
+   "from_id": "user5662188202",
+   "text": "amanhã eu não posso",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "amanhã eu não posso"
+    }
+   ]
+  },
+  {
+   "id": 350,
+   "type": "message",
+   "date": "2022-10-06T16:10:38",
+   "date_unixtime": "1665083438",
+   "from": "Nicolas Vinicius",
+   "from_id": "user5662188202",
+   "text": "mas não vamos no sábado então?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "mas não vamos no sábado então?"
+    }
+   ]
+  },
+  {
+   "id": 351,
+   "type": "message",
+   "date": "2022-10-06T16:11:55",
+   "date_unixtime": "1665083515",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "reply_to_message_id": 350,
+   "text": "ao invés do adrian, irei eu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ao invés do adrian, irei eu"
+    }
+   ]
+  },
+  {
+   "id": 352,
+   "type": "message",
+   "date": "2022-10-06T16:12:21",
+   "date_unixtime": "1665083541",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Também não vou poder segunda, mas segunda tem motorista",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Também não vou poder segunda, mas segunda tem motorista"
+    }
+   ]
+  },
+  {
+   "id": 353,
+   "type": "message",
+   "date": "2022-10-06T16:12:30",
+   "date_unixtime": "1665083550",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Vou amanhã e vou no domingo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Vou amanhã e vou no domingo"
+    }
+   ]
+  },
+  {
+   "id": 354,
+   "type": "message",
+   "date": "2022-10-06T16:12:41",
+   "date_unixtime": "1665083561",
+   "from": "Nicolas Vinicius",
+   "from_id": "user5662188202",
+   "reply_to_message_id": 351,
+   "text": "a, entendi",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "a, entendi"
+    }
+   ]
+  },
+  {
+   "id": 355,
+   "type": "message",
+   "date": "2022-10-06T16:12:52",
+   "date_unixtime": "1665083572",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "text": "Ricardo, amanhã te passo um dos meus carros pra vc ir sabado",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ricardo, amanhã te passo um dos meus carros pra vc ir sabado"
+    }
+   ]
+  },
+  {
+   "id": 356,
+   "type": "message",
+   "date": "2022-10-06T16:13:10",
+   "date_unixtime": "1665083590",
+   "from": "Adrian Garda",
+   "from_id": "user5672618847",
+   "reply_to_message_id": 354,
+   "text": "Eu não fui nada claro, hehe",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Eu não fui nada claro, hehe"
+    }
+   ]
+  },
+  {
+   "id": 357,
+   "type": "message",
+   "date": "2022-10-06T16:13:32",
+   "date_unixtime": "1665083612",
+   "edited": "2022-10-06T16:13:38",
+   "edited_unixtime": "1665083618",
+   "from": "Ricardo da Silveira Filho",
+   "from_id": "user236056101",
+   "reply_to_message_id": 355,
+   "text": "ok!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ok!"
+    }
+   ]
+  }
+ ]
+}
