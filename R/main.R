@@ -18,12 +18,14 @@ source("R/ler_html_telegram.R")
 library(tidyverse) # data wrangling
 
 
+
 # 1) Data ----------------------------------------------------------------
 
 data <- fs::dir_ls("data/ChatExport_2022-10-07/", regexp = "messages")
 
 chat <- purrr::map_dfr(data, ler_html_telegram, .id = "arquivo")
 
+glimpse(chat)
 
 # 2) Plots ----------------------------------------------------------------
 
