@@ -15,6 +15,7 @@ gitcreds::gitcreds_get()
 
 ## packages and functions
 source("R/ler_html_telegram.R")
+library(lubridate)
 library(tidyverse) # data wrangling
 
 
@@ -30,6 +31,40 @@ glimpse(chat)
 # 2) Plots ----------------------------------------------------------------
 
 
+# barplot with number of messages by person
+chat %>%
+	group_by(nome) %>%
+	tally() %>%
+	ggplot(aes(x = reorder(nome, n), y = n)) +
+	geom_col(fill = "#246634") +
+	geom_label(aes(label = n), size = 8,
+			   label.padding = unit(.2, "lines")) +
+	labs(x = "Integrantes",
+		 y = "Número de mensagens enviadas",
+		 title = "Participação dos membros do LAR 🐸🐍🦎🦗🧬 no Telegram") +
+	coord_flip() +
+	theme_bw() +
+	theme(plot.margin = margin(25, 25, 25, 25),
+		  plot.title = element_text(size = 30),
+		  axis.title = element_text(size = 20),
+		  axis.text = element_text(size = 15))
 
+
+
+# barplot with the hour of communication
+chat %>%
+	mutate(hora = factor(hour(data_hora))) %>%
+	ggplot(aes(x = hora)) +
+	geom_bar(fill = "#246634") +
+	geom_label(aes(label = n), size = 8,
+			   label.padding = unit(.2, "lines")) +
+	labs(x = "Hora",
+		 y = "Número de mensagens",
+		 title = "Hora das mensagens") +
+	theme_bw() +
+	theme(plot.margin = margin(25, 25, 25, 25),
+		  plot.title = element_text(size = 30),
+		  axis.title = element_text(size = 20),
+		  axis.text = element_text(size = 15))
 
 
